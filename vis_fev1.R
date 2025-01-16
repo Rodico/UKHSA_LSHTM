@@ -8,6 +8,8 @@
 
 library(tidyverse)
 
+#MICHAEL WAS HERE 
+
 # read the data in
 fev1 <- read_csv("../data/fev1.csv", col_types = list('id' = 'f'))
 
