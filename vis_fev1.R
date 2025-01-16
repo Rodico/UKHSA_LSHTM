@@ -8,7 +8,7 @@
 library(tidyverse)
 
 # read the data in
-fev1 <- read_csv("~/Documents/GitHub/2491_eda/data/fev1.csv", col_types = list('id' = 'f'))
+fev1 <- read_csv("fev1.csv")
 View(fev1)
 
 # sample the data so that we have 20 patients with more than 6 observations
