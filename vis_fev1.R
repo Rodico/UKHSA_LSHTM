@@ -5,14 +5,10 @@
 # _/_/_/_/      _/    _/_/_/    _/_/_/     
 
 # Exploratory Data Analysis of FEV1 data
-hello
 library(tidyverse)
 
-#MICHAEL WAS HERESS
-#HELLO
-
 # read the data in
-fev1 <- read_csv("~/Documents/GitHub/2491_eda/data/fev1.csv", col_types = list('id' = 'f'))
+fev1 <- read.csv("fev1.csv")
 
 # sample the data so that we have 20 patients with more than 6 observations
 
