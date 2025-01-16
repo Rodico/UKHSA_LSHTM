@@ -8,7 +8,8 @@
 library(tidyverse)
 
 # read the data in
-fev1 <- read.csv("fev1.csv")
+fev1 <- read_csv("~/Documents/GitHub/2491_eda/data/fev1.csv", col_types = list('id' = 'f'))
+View(fev1)
 
 # sample the data so that we have 20 patients with more than 6 observations
 
@@ -30,7 +31,7 @@ fev1_sampled
 # Build a plot that shows the relationship between FEV1 and age
 
 fev1_plot <- ggplot(data = fev1_sampled, 
-                    aes(x = ..., y = ...)) +
+                    aes(x = FEV1, y = age)) +
     geom_point()
 
 fev1_plot
