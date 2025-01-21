@@ -1,0 +1,189 @@
+#This is a draft and uses a HCAI-AEC-data-table-2023-to-2024 cleaned dataset which created third_day_mortality
+#This can be found on slide 2 when you click the link to the UKHSA data page: https://www.gov.uk/government/statistics/mrsa-mssa-and-e-coli-bacteraemia-and-c-difficile-infection-annual-epidemiological-commentary
+# Name: Accompanying data for Gram-negative, MRSA and MSSA bacteraemia and C. difficile infection data, up to and including financial year 2023 to 2024
+# Table S9 
+#Found some issues importing, must remove titles so heading is read 
+#MSSA had some symbols in it's name so changed it strictly to MSSA
+
+
+# Load required libraries
+library(tidyverse)
+library(ggplot2)
+library(gridExtra)
+library(broom)
+library(segmented)
+
+# Import data
+data <- read_csv("third_day_mortality.csv", show_col_types = FALSE) #SHOULD BE THIRTY DAY not third 
+
+# Process the data
+processed_data <- data %>%
+  filter(!is.na(`Financial year`)) %>%
+  mutate(
+    infection_type = case_when(
+      `Data collection` == "All infections" ~ "All infections",
+      `Data collection` == "Escherichia coli" ~ "E. coli",
+      grepl("MSSA", `Data collection`) ~ "MSSA",
+      TRUE ~ `Data collection`
+    ),
+    year_num = as.numeric(substr(`Financial year`, 1, 4)),
+    covid_period = factor(case_when(
+      `Financial year` %in% c("2019 to 2020", "2020 to 2021") ~ "COVID",
+      `Financial year` < "2019 to 2020" ~ "Pre-COVID",
+      TRUE ~ "Post-COVID"
+    ), levels = c("Pre-COVID", "COVID", "Post-COVID"))
+  )
+
+# Initialize model dataframes
+mortality_models <- data.frame()
+fatality_models <- data.frame()
+
+# Fit models for each combination
+for(inf_type in unique(processed_data$infection_type)) {
+  for(cov_period in unique(processed_data$covid_period)) {
+    # Filter data
+    temp_data <- processed_data %>%
+      filter(infection_type == inf_type, covid_period == cov_period)
+    
+    # Fit mortality model
+    mort_model <- lm(`Mortality rate [Note 11]` ~ year_num, data = temp_data)
+    mort_summary <- summary(mort_model)
+    
+    # Store mortality results
+    mortality_models <- rbind(mortality_models, data.frame(
+      infection_type = inf_type,
+      covid_period = cov_period,
+      mortality_intercept = coef(mort_model)[1],
+      mortality_slope = coef(mort_model)[2],
+      mortality_p_value = mort_summary$coefficients[2,4],
+      mortality_r_squared = mort_summary$r.squared
+    ))
+    
+    # Fit fatality model
+    fat_model <- lm(`Case fatality rate [Note 10]` ~ year_num, data = temp_data)
+    fat_summary <- summary(fat_model)
+    
+    # Store fatality results
+    fatality_models <- rbind(fatality_models, data.frame(
+      infection_type = inf_type,
+      covid_period = cov_period,
+      fatality_intercept = coef(fat_model)[1],
+      fatality_slope = coef(fat_model)[2],
+      fatality_p_value = fat_summary$coefficients[2,4],
+      fatality_r_squared = fat_summary$r.squared
+    ))
+  }
+}
+
+# Format model results
+mortality_results <- as.data.frame(mortality_models) %>%
+  arrange(infection_type, covid_period) %>%
+  mutate(across(where(is.numeric), ~round(., 4))) %>%
+  replace(is.na(.), "NA")
+
+fatality_results <- as.data.frame(fatality_models) %>%
+  arrange(infection_type, covid_period) %>%
+  mutate(across(where(is.numeric), ~round(., 4))) %>%
+  replace(is.na(.), "NA")
+
+# Create visualizations
+mortality_plot <- ggplot(processed_data, 
+                         aes(x = `Financial year`, 
+                             y = `Mortality rate [Note 11]`, 
+                             color = infection_type,
+                             group = infection_type)) +
+  geom_smooth(method = "lm", alpha = 0.2, linetype = "dashed") +
+  annotate("rect", 
+           xmin = "2019 to 2020",
+           xmax = "2020 to 2021",
+           ymin = -Inf, ymax = Inf,
+           fill = "grey90", alpha = 0.3) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 3) +
+  theme_minimal() +
+  scale_color_manual(
+    values = c(
+      "All infections" = "#E41A1C",
+      "E. coli" = "#377EB8",
+      "MSSA" = "#4DAF4A"
+    )
+  ) +
+  labs(title = "Mortality Rates by Infection Type with Trend Lines",
+       subtitle = "Shaded area represents COVID period (2019-2021)",
+       x = "Financial Year",
+       y = "Mortality Rate (per 100,000)",
+       color = "Infection Type") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "bottom") +
+  scale_x_discrete(breaks = sort(unique(processed_data$`Financial year`)))
+
+fatality_plot <- ggplot(processed_data, 
+                        aes(x = `Financial year`, 
+                            y = `Case fatality rate [Note 10]`, 
+                            color = infection_type,
+                            group = infection_type)) +
+  geom_smooth(method = "lm", alpha = 0.2, linetype = "dashed") +
+  annotate("rect", 
+           xmin = "2019 to 2020",
+           xmax = "2020 to 2021",
+           ymin = -Inf, ymax = Inf,
+           fill = "grey90", alpha = 0.3) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 3) +
+  theme_minimal() +
+  scale_color_manual(
+    values = c(
+      "All infections" = "#E41A1C",
+      "E. coli" = "#377EB8",
+      "MSSA" = "#4DAF4A"
+    )
+  ) +
+  labs(title = "Case Fatality Rates by Infection Type with Trend Lines",
+       subtitle = "Shaded area represents COVID period (2019-2021)",
+       x = "Financial Year",
+       y = "Case Fatality Rate (%)",
+       color = "Infection Type") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "bottom") +
+  scale_x_discrete(breaks = sort(unique(processed_data$`Financial year`)))
+
+# Calculate summary statistics
+period_summary <- processed_data %>%
+  group_by(covid_period, infection_type) %>%
+  summarise(
+    mean_mortality = mean(`Mortality rate [Note 11]`, na.rm = TRUE),
+    sd_mortality = sd(`Mortality rate [Note 11]`, na.rm = TRUE),
+    mean_fatality = mean(`Case fatality rate [Note 10]`, na.rm = TRUE),
+    sd_fatality = sd(`Case fatality rate [Note 10]`, na.rm = TRUE),
+    n = n(),
+    .groups = "drop"
+  ) %>%
+  arrange(infection_type, covid_period)
+
+# Perform ANOVA tests
+mortality_anova <- aov(`Mortality rate [Note 11]` ~ covid_period * infection_type, 
+                       data = processed_data)
+fatality_anova <- aov(`Case fatality rate [Note 10]` ~ covid_period * infection_type, 
+                      data = processed_data)
+
+# Print results
+print("Data Summary:")
+print(summary(processed_data))
+
+print("\nMortality Rate Analysis Results:")
+print(mortality_results)
+
+print("\nFatality Rate Analysis Results:")
+print(fatality_results)
+
+print("\nPeriod Summary Statistics:")
+print(period_summary)
+
+print("\nMortality Rate ANOVA Results:")
+print(summary(mortality_anova))
+
+print("\nFatality Rate ANOVA Results:")
+print(summary(fatality_anova))
+
+# Display plots
+grid.arrange(mortality_plot, fatality_plot, ncol = 2)
