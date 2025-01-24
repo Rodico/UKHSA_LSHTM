@@ -3,15 +3,15 @@ library(readxl)
 library(dplyr)
 
 #loading data Attribution from A&E Providers to ICBs
-ae_icb<- read_excel("~/Desktop/Trust-ICB-Attribution-File.xls")
+ae_icb<- read_excel("~/Desktop/Term 2/Data Challenge /datasets/Trust-ICB-Attribution-File.xls")
 View(ae_icb)
 
 #loading care board data
-care_boards<- read.csv("~/Desktop/Integrated_Care_Boards_(December_2024)_Names_and_Codes_in_EN.csv")
+care_boards<- read.csv("~/Desktop/Term 2/Data Challenge /datasets/Integrated_Care_Boards_(December_2024)_Names_and_Codes_in_EN.csv")
 View(care_boards)
 
 #
-lsoa<- read.csv("~/Desktop/LSOA_(2021)_to_SICBL_to_ICB_to_LAD_(April_2023)_Lookup_in_EN.csv")
+lsoa<- read.csv("~/Desktop/Term 2/Data Challenge /datasets/LSOA_(2021)_to_SICBL_to_ICB_to_LAD_(April_2023)_Lookup_in_EN.csv")
 View(lsoa)
 
 # clenaing ae_icb table 
@@ -36,3 +36,13 @@ View(care_lsoa)
 icb <- care_lsoa %>%
   left_join(ae_icb, by = c("ICB24CDH" = "ICB Code"))
 View(icb)
+
+# Clean column names (remove any extra spaces)
+colnames(icb) <- trimws(colnames(icb))
+
+# Convert 'ICB Name' and 'name' columns to uppercase
+icb$`ICB Name` <- toupper(icb$`ICB Name`)
+icb$Name <- toupper(icb$Name)
+
+# View the updated dataset
+head(icb)
