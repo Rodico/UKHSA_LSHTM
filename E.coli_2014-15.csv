@@ -1,0 +1,175 @@
+﻿Title:;ARCHIVE Financial Year - Monthly counts of E. coli bacteraemia by Acute Trust;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Reporting Period:;April 2014 to March 2015;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+No. of months:;12 months;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Publication date:;September 2015;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Trust Code;Trust Type;PHE Centre;Trust Name;April 2014;May 2014;June 2014;July 2014;August 2014;September 2014;October 2014;November 2014;December 2014;January 2015;February 2015;March 2015;Trust Name
+;;;Totals;2873;3025;2988;3207;3234;3035;3085;2907;2855;2858;2691;2918;Totals
+;;;;;;;;;;;;;;;;
+REM;FT;Cheshire and Merseyside;Aintree University Hospital;26;29;33;37;27;28;24;24;15;20;35;24;Aintree University Hospital
+RCF;FT;Yorkshire and Humber;Airedale;8;5;12;9;6;19;15;9;11;11;8;13;Airedale
+RBS;FT;Cheshire and Merseyside;Alder Hey Children's;1;3;0;2;6;1;3;3;2;1;1;1;Alder Hey Children's
+RTK;FT;Kent, Surrey and Sussex;Ashford & St Peter's Hospitals;13;26;15;16;20;23;12;20;21;19;18;16;Ashford & St Peter's Hospitals
+RF4;--;London;Barking, Havering & Redbridge University Hospitals;33;29;54;41;45;35;32;45;44;38;32;38;Barking, Havering & Redbridge University Hospitals
+RFF;FT;Yorkshire and Humber;Barnsley Hospital;11;15;13;20;15;17;9;15;17;24;14;7;Barnsley Hospital
+R1H;--;London;Barts Health;39;56;40;65;61;58;53;46;43;56;48;60;Barts Health
+RDD;FT;Anglia and Essex;Basildon & Thurrock University Hospitals;15;15;16;18;21;14;18;25;22;12;23;13;Basildon & Thurrock University Hospitals
+RC1;--;South Midlands and Hertfordshire;Bedford Hospital;11;9;11;12;16;19;14;10;14;11;6;13;Bedford Hospital
+RQ3;FT;West Midlands;Birmingham Children's Hospital;3;2;5;0;2;3;0;3;1;1;4;1;Birmingham Children's Hospital
+RLU;FT;West Midlands;Birmingham Women's;1;2;1;1;2;1;1;1;1;1;2;0;Birmingham Women's
+RXL;FT;Cumbria and Lancashire;Blackpool Teaching Hospitals;19;29;21;28;13;31;23;26;18;20;24;22;Blackpool Teaching Hospitals
+RMC;FT;Greater Manchester;Bolton;18;19;21;24;16;13;12;13;26;29;14;14;Bolton
+RAE;FT;Yorkshire and Humber;Bradford Teaching Hospitals;24;19;26;18;25;22;17;21;9;16;13;27;Bradford Teaching Hospitals
+RXH;--;Kent, Surrey and Sussex;Brighton & Sussex University Hospitals;19;14;26;29;27;23;24;18;30;15;11;23;Brighton & Sussex University Hospitals
+RXQ;--;Thames Valley;Buckinghamshire Healthcare;20;19;21;17;21;17;30;16;24;9;19;22;Buckinghamshire Healthcare
+RJF;FT;West Midlands;Burton Hospitals;17;11;16;15;11;13;14;23;17;13;12;10;Burton Hospitals
+RWY;FT;Yorkshire and Humber;Calderdale & Huddersfield;23;24;19;21;12;19;27;22;21;22;26;26;Calderdale & Huddersfield
+RGT;FT;Anglia and Essex;Cambridge University Hospitals;23;22;23;31;19;23;24;27;18;36;18;22;Cambridge University Hospitals
+RW3;FT;Greater Manchester;Central Manchester University Hospitals;26;21;24;26;21;17;18;19;32;24;22;21;Central Manchester University Hospitals
+RQM;FT;London;Chelsea & Westminster Hospital;5;6;10;8;9;4;6;10;6;5;1;0;Chelsea & Westminster Hospital
+RFS;FT;East Midlands;Chesterfield Royal Hospital;12;17;17;24;21;23;18;25;15;16;23;17;Chesterfield Royal Hospital
+RLN;FT;North East;City Hospitals Sunderland;19;30;25;18;27;17;25;27;27;21;21;22;City Hospitals Sunderland
+RDE;FT;Anglia and Essex;Colchester Hospital University;20;25;13;20;13;17;18;18;27;19;14;19;Colchester Hospital University
+RJR;FT;Cheshire and Merseyside;Countess of Chester Hospital;19;22;16;15;15;19;16;16;17;11;19;16;Countess of Chester Hospital
+RXP;FT;North East;County Durham & Darlington;20;28;29;28;27;30;32;30;24;19;23;29;County Durham & Darlington
+RJ6;--;London;Croydon Health Services;12;19;12;16;14;17;22;15;9;12;9;10;Croydon Health Services
+RN7;--;Kent, Surrey and Sussex;Dartford & Gravesham;16;19;14;24;14;19;6;15;12;15;15;14;Dartford & Gravesham
+RTG;FT;East Midlands;Derby Hospitals;37;41;44;45;31;35;41;29;35;27;35;32;Derby Hospitals
+RP5;FT;Yorkshire and Humber;Doncaster & Bassetlaw Hospitals;26;32;29;34;28;23;28;17;24;20;30;33;Doncaster & Bassetlaw Hospitals
+RBD;FT;Wessex;Dorset County Hospital;5;8;9;9;8;11;8;5;6;6;11;9;Dorset County Hospital
+RWH;--;South Midlands and Hertfordshire;East & North Hertfordshire;11;33;22;20;20;22;20;25;24;14;18;18;East & North Hertfordshire
+RJN;--;Cheshire and Merseyside;East Cheshire;12;12;12;5;18;14;14;10;19;9;9;7;East Cheshire
+RVV;FT;Kent, Surrey and Sussex;East Kent Hospitals University;41;37;40;44;31;44;46;39;38;36;33;40;East Kent Hospitals University
+RXR;--;Cumbria and Lancashire;East Lancashire Hospitals;26;27;37;20;25;26;35;29;27;32;31;25;East Lancashire Hospitals
+RXC;--;Kent, Surrey and Sussex;East Sussex Healthcare;16;13;23;23;28;22;23;21;19;12;14;24;East Sussex Healthcare
+RVR;--;London;Epsom & St Helier University Hospitals;19;26;34;14;12;20;20;13;21;19;15;25;Epsom & St Helier University Hospitals
+RDU;FT;Kent, Surrey and Sussex;Frimley Health3;44;40;33;35;52;36;40;27;32;38;36;38;Frimley Health3
+RR7;FT;North East;Gateshead Health;16;10;14;15;12;14;7;14;12;14;20;14;Gateshead Health
+RLT;--;West Midlands;George Eliot Hospital;11;16;16;13;7;12;18;14;8;14;6;11;George Eliot Hospital
+RTE;FT;Avon, Gloucestershire and Wiltshire;Gloucestershire Hospitals;18;27;28;25;31;27;25;29;20;21;20;16;Gloucestershire Hospitals
+RP4;FT;London;Great Ormond Street Hospital for Children;2;2;2;1;3;1;0;2;2;3;1;0;Great Ormond Street Hospital for Children
+RN3;FT;Avon, Gloucestershire and Wiltshire;Great Western Hospitals;13;24;24;16;21;14;19;15;21;23;16;22;Great Western Hospitals
+RJ1;FT;London;Guy's & St. Thomas';21;20;17;19;19;14;16;16;24;20;24;24;Guy's & St. Thomas'
+RN5;FT;Wessex;Hampshire Hospitals;21;16;20;17;19;12;18;18;13;11;12;12;Hampshire Hospitals
+RCD;FT;Yorkshire and Humber;Harrogate & District;8;7;11;17;5;6;12;6;4;12;7;6;Harrogate & District
+RR1;FT;West Midlands;Heart of England;38;41;55;50;48;48;45;36;43;51;33;49;Heart of England
+RQQ;--;Anglia and Essex;Hinchingbrooke Health Care;7;9;4;14;8;4;5;7;2;7;3;5;Hinchingbrooke Health Care
+RQX;FT;London;Homerton University Hospital;11;10;10;6;12;10;8;11;10;9;12;13;Homerton University Hospital
+RWA;--;Yorkshire and Humber;Hull & East Yorkshire Hospitals;22;31;20;36;36;28;33;33;32;19;31;25;Hull & East Yorkshire Hospitals
+RYJ;--;London;Imperial College Healthcare;24;28;27;23;46;25;23;32;26;35;23;30;Imperial College Healthcare
+RGQ;--;Anglia and Essex;Ipswich Hospital;11;11;17;17;13;15;18;11;13;12;15;15;Ipswich Hospital
+R1F;--;Wessex;Isle of Wight;10;8;8;10;8;9;11;14;9;11;8;9;Isle of Wight
+RGP;FT;Anglia and Essex;James Paget University Hospitals;13;13;18;12;15;7;16;12;9;15;17;15;James Paget University Hospitals
+RNQ;FT;South Midlands and Hertfordshire;Kettering General Hospital;18;23;21;15;20;12;15;22;18;17;17;17;Kettering General Hospital
+RJZ;FT;London;King's College Hospital;33;27;25;36;25;34;36;39;32;35;30;33;King's College Hospital
+RAX;FT;London;Kingston Hospital;10;12;14;13;13;11;15;10;7;9;12;7;Kingston Hospital
+RXN;FT;Cumbria and Lancashire;Lancashire Teaching Hospitals;20;22;22;29;24;28;30;28;24;15;20;21;Lancashire Teaching Hospitals
+RR8;--;Yorkshire and Humber;Leeds Teaching Hospitals;43;63;47;50;42;61;54;48;50;50;45;30;Leeds Teaching Hospitals
+RJ2;--;London;Lewisham & Greenwich;33;20;23;22;30;18;22;32;31;24;20;34;Lewisham & Greenwich
+RBQ;FT;Cheshire and Merseyside;Liverpool Heart & Chest Hospital;1;2;0;2;1;0;2;0;1;2;0;0;Liverpool Heart & Chest Hospital
+REP;FT;Cheshire and Merseyside;Liverpool Women's;1;5;2;1;1;1;1;1;2;1;0;0;Liverpool Women's
+R1K;--;London;London North West Healthcare2;32;37;25;33;38;36;33;40;37;34;27;27;London North West Healthcare2
+RC9;FT;South Midlands and Hertfordshire;Luton & Dunstable University Hospital;16;17;24;19;26;16;12;15;12;13;16;12;Luton & Dunstable University Hospital
+RWF;--;Kent, Surrey and Sussex;Maidstone & Tunbridge Wells;36;25;29;22;25;23;23;21;27;21;28;29;Maidstone & Tunbridge Wells
+RPA;FT;Kent, Surrey and Sussex;Medway;16;29;23;30;24;18;25;21;22;21;15;23;Medway
+RBT;FT;Cheshire and Merseyside;Mid Cheshire Hospitals;18;20;17;13;19;14;17;17;18;20;15;14;Mid Cheshire Hospitals
+RQ8;--;Anglia and Essex;Mid Essex Hospital Services;18;11;15;13;27;16;16;13;11;15;10;13;Mid Essex Hospital Services
+RXF;--;Yorkshire and Humber;Mid Yorkshire Hospitals;39;29;35;28;37;36;33;38;30;27;23;22;Mid Yorkshire Hospitals
+RD8;FT;South Midlands and Hertfordshire;Milton Keynes Hospital;14;9;13;19;21;19;14;16;11;7;15;16;Milton Keynes Hospital
+RP6;FT;London;Moorfields Eye Hospital;0;0;0;0;0;0;0;0;0;0;0;0;Moorfields Eye Hospital
+RM1;FT;Anglia and Essex;Norfolk & Norwich University Hospitals;23;21;15;16;29;30;25;25;27;19;23;32;Norfolk & Norwich University Hospitals
+RVJ;--;Avon, Gloucestershire and Wiltshire;North Bristol;20;16;24;20;16;31;23;22;21;16;21;26;North Bristol
+RNL;--;Cumbria and Lancashire;North Cumbria University Hospitals;21;21;19;14;19;18;19;17;21;18;15;21;North Cumbria University Hospitals
+RAP;--;London;North Middlesex University Hospital;15;14;14;9;13;13;16;14;17;22;8;18;North Middlesex University Hospital
+RVW;FT;North East;North Tees & Hartlepool;17;18;12;15;11;18;20;19;16;19;18;21;North Tees & Hartlepool
+RNS;--;South Midlands and Hertfordshire;Northampton General Hospital;15;10;15;11;29;21;23;17;24;22;16;6;Northampton General Hospital
+RBZ;--;Devon, Cornwall and Somerset;Northern Devon Healthcare;12;10;17;10;9;6;7;12;5;11;12;10;Northern Devon Healthcare
+RJL;FT;Yorkshire and Humber;Northern Lincolnshire & Goole;22;25;21;19;33;23;20;27;22;31;28;29;Northern Lincolnshire & Goole
+RTF;FT;North East;Northumbria Healthcare;35;47;34;40;33;44;46;30;29;43;29;33;Northumbria Healthcare
+RX1;--;East Midlands;Nottingham University Hospitals;70;58;59;78;84;65;76;76;73;63;48;78;Nottingham University Hospitals
+RTH;--;Thames Valley;Oxford University Hospitals;30;23;47;47;41;27;30;29;32;27;28;33;Oxford University Hospitals
+RGM;FT;Anglia and Essex;Papworth Hospital;0;1;0;0;2;0;1;0;1;1;0;0;Papworth Hospital
+RW6;--;Greater Manchester;Pennine Acute Hospitals;39;44;32;28;40;39;48;31;41;40;31;40;Pennine Acute Hospitals
+RGN;FT;Anglia and Essex;Peterborough & Stamford Hospitals;21;20;20;20;12;18;18;17;10;14;17;18;Peterborough & Stamford Hospitals
+RK9;--;Devon, Cornwall and Somerset;Plymouth Hospitals;29;27;21;35;25;36;35;28;25;22;27;39;Plymouth Hospitals
+RD3;FT;Wessex;Poole Hospital;21;19;12;22;22;15;22;16;13;14;10;12;Poole Hospital
+RHU;--;Wessex;Portsmouth Hospitals;24;22;42;36;35;30;24;22;28;37;28;32;Portsmouth Hospitals
+RPC;FT;Kent, Surrey and Sussex;Queen Victoria Hospital;0;0;0;0;0;0;0;0;0;0;0;0;Queen Victoria Hospital
+RHW;FT;Thames Valley;Royal Berkshire;18;16;20;29;20;15;29;25;17;21;20;25;Royal Berkshire
+RT3;FT;London;Royal Brompton & Harefield;1;0;2;4;2;0;1;1;3;2;2;0;Royal Brompton & Harefield
+REF;--;Devon, Cornwall and Somerset;Royal Cornwall Hospitals;15;19;18;20;16;21;18;14;21;18;18;15;Royal Cornwall Hospitals
+RH8;FT;Devon, Cornwall and Somerset;Royal Devon & Exeter;21;21;17;18;22;16;14;14;20;18;17;27;Royal Devon & Exeter
+RAL;FT;London;Royal Free London1;45;39;39;35;51;46;52;36;40;39;37;29;Royal Free London1
+RQ6;--;Cheshire and Merseyside;Royal Liverpool & Broadgreen University Hospitals;31;18;29;26;27;19;31;26;20;33;15;28;Royal Liverpool & Broadgreen University Hospitals
+RAN;--;London;Royal National Orthopaedic Hospital;1;0;0;1;0;1;1;2;1;0;0;0;Royal National Orthopaedic Hospital
+RA2;FT;Kent, Surrey and Sussex;Royal Surrey County Hospital;7;12;11;10;9;13;10;9;20;13;17;9;Royal Surrey County Hospital
+RD1;FT;Avon, Gloucestershire and Wiltshire;Royal United Hospital Bath4;31;31;17;19;18;26;30;21;22;21;24;27;Royal United Hospital Bath4
+RM3;FT;Greater Manchester;Salford Royal;12;26;7;14;16;12;8;17;14;16;15;17;Salford Royal
+RNZ;FT;Avon, Gloucestershire and Wiltshire;Salisbury;13;3;7;9;14;9;7;6;7;10;3;5;Salisbury
+RXK;--;West Midlands;Sandwell & West Birmingham Hospitals;22;31;28;28;33;18;26;18;19;15;13;34;Sandwell & West Birmingham Hospitals
+RCU;FT;Yorkshire and Humber;Sheffield Children's;3;1;1;5;3;3;4;0;0;1;0;2;Sheffield Children's
+RHQ;FT;Yorkshire and Humber;Sheffield Teaching Hospitals;49;53;45;73;50;46;45;41;40;45;47;63;Sheffield Teaching Hospitals
+RK5;FT;East Midlands;Sherwood Forest Hospitals;29;14;22;30;27;21;18;20;19;31;21;29;Sherwood Forest Hospitals
+RXW;--;West Midlands;Shrewsbury & Telford Hospital;31;23;28;29;25;26;30;19;22;15;17;25;Shrewsbury & Telford Hospital
+RA9;FT;Devon, Cornwall and Somerset;South Devon Healthcare;23;20;12;16;20;20;15;22;16;18;14;7;South Devon Healthcare
+RTR;FT;North East;South Tees Hospitals;34;43;20;36;32;45;41;39;30;25;25;39;South Tees Hospitals
+RE9;FT;North East;South Tyneside;6;10;7;11;9;6;8;4;5;8;9;8;South Tyneside
+RJC;FT;West Midlands;South Warwickshire;17;9;6;15;19;14;10;15;11;17;9;15;South Warwickshire
+RAJ;FT;Anglia and Essex;Southend University Hospital;14;18;9;17;19;15;19;9;12;17;11;16;Southend University Hospital
+RVY;--;Cheshire and Merseyside;Southport & Ormskirk Hospital;19;17;16;20;17;22;13;16;15;16;19;22;Southport & Ormskirk Hospital
+RBN;--;Cheshire and Merseyside;St Helens & Knowsley Hospitals;22;21;15;29;26;28;31;21;23;21;34;29;St Helens & Knowsley Hospitals
+RJ7;FT;London;St. George's University Hospitals;21;21;24;32;26;22;21;16;17;18;21;24;St. George's University Hospitals
+RWJ;FT;Greater Manchester;Stockport;16;10;18;19;23;28;20;20;9;19;11;14;Stockport
+RTP;--;Kent, Surrey and Sussex;Surrey & Sussex Healthcare;23;25;23;18;17;22;18;15;16;14;18;12;Surrey & Sussex Healthcare
+RMP;FT;Greater Manchester;Tameside Hospital;11;8;9;13;15;11;18;14;14;7;6;12;Tameside Hospital
+RBA;FT;Devon, Cornwall and Somerset;Taunton & Somerset;16;21;17;25;12;13;19;13;13;18;17;14;Taunton & Somerset
+RBV;FT;Greater Manchester;The Christie Hospital;4;3;4;7;3;6;3;5;5;2;4;3;The Christie Hospital
+REN;FT;Cheshire and Merseyside;The Clatterbridge Cancer Centre;1;1;2;1;0;1;3;0;0;2;1;0;The Clatterbridge Cancer Centre
+RNA;FT;West Midlands;The Dudley Group;21;22;19;15;24;22;19;22;16;17;19;19;The Dudley Group
+RAS;FT;London;The Hillingdon Hospitals;4;10;13;11;15;23;15;21;14;18;14;9;The Hillingdon Hospitals
+RTD;FT;North East;The Newcastle upon Tyne Hospitals;33;34;39;45;30;31;27;36;29;38;32;36;The Newcastle upon Tyne Hospitals
+RQW;--;Anglia and Essex;The Princess Alexandra Hospital;11;13;16;12;13;19;17;12;11;16;11;8;The Princess Alexandra Hospital
+RCX;FT;Anglia and Essex;The Queen Elizabeth Hospital King's Lynn;9;15;8;15;20;15;13;16;19;10;18;13;The Queen Elizabeth Hospital King's Lynn
+RL1;FT;West Midlands;The Robert Jones & Agnes Hunt Orthopaedic Hospital;2;1;0;1;0;0;1;0;2;0;0;1;The Robert Jones & Agnes Hunt Orthopaedic Hospital
+RFR;FT;Yorkshire and Humber;The Rotherham;16;11;25;20;16;15;15;11;12;17;14;18;The Rotherham
+RDZ;FT;Wessex;The Royal Bournemouth & Christchurch Hospitals;16;20;13;35;31;18;31;22;23;21;25;22;The Royal Bournemouth & Christchurch Hospitals
+RPY;FT;London;The Royal Marsden;5;8;4;1;4;6;11;7;8;4;8;4;The Royal Marsden
+RRJ;FT;West Midlands;The Royal Orthopaedic Hospital;0;0;0;0;0;0;0;0;0;0;0;0;The Royal Orthopaedic Hospital
+RL4;--;West Midlands;The Royal Wolverhampton¥;18;19;24;24;22;24;25;29;26;30;26;20;The Royal Wolverhampton¥
+RET;FT;Cheshire and Merseyside;The Walton Centre;1;2;0;0;1;2;0;1;1;1;1;2;The Walton Centre
+RKE;--;London;The Whittington Hospital;10;14;8;14;14;8;8;13;5;9;16;12;The Whittington Hospital
+RWD;--;East Midlands;United Lincolnshire Hospitals;24;35;36;33;41;38;36;31;32;38;27;20;United Lincolnshire Hospitals
+RRV;FT;London;University College London Hospitals;23;19;18;26;22;18;22;20;23;18;24;21;University College London Hospitals
+RJE;--;West Midlands;University Hospital of North Midlands¥;54;48;52;51;55;56;42;30;45;37;37;37;University Hospital of North Midlands¥
+RM2;FT;Greater Manchester;University Hospital of South Manchester;19;14;19;13;16;14;19;14;20;15;10;18;University Hospital of South Manchester
+RHM;FT;Wessex;University Hospital Southampton;23;32;38;22;17;33;25;27;18;24;26;18;University Hospital Southampton
+RRK;FT;West Midlands;University Hospitals Birmingham;11;28;33;29;30;27;29;27;24;32;24;18;University Hospitals Birmingham
+RA7;FT;Avon, Gloucestershire and Wiltshire;University Hospitals Bristol;12;21;18;27;16;25;17;14;14;17;18;12;University Hospitals Bristol
+RKB;--;West Midlands;University Hospitals Coventry & Warwickshire;24;24;19;31;34;29;31;24;25;25;18;27;University Hospitals Coventry & Warwickshire
+RWE;--;East Midlands;University Hospitals of Leicester;42;39;51;45;66;54;39;54;42;37;57;40;University Hospitals of Leicester
+RTX;FT;Cumbria and Lancashire;University Hospitals of Morecambe Bay;20;15;18;24;21;18;14;21;18;17;18;8;University Hospitals of Morecambe Bay
+RBK;--;West Midlands;Walsall Healthcare;12;12;14;14;19;11;12;12;10;8;14;13;Walsall Healthcare
+RWW;FT;Cheshire and Merseyside;Warrington & Halton Hospitals;16;14;10;20;18;11;11;12;9;18;15;4;Warrington & Halton Hospitals
+RWG;--;South Midlands and Hertfordshire;West Hertfordshire Hospitals;14;19;18;23;30;20;29;9;18;18;11;19;West Hertfordshire Hospitals
+RFW;--;London;West Middlesex University Hospital;13;20;15;10;12;7;12;7;10;17;18;18;West Middlesex University Hospital
+RGR;FT;Anglia and Essex;West Suffolk;16;20;18;17;13;22;16;11;13;9;18;23;West Suffolk
+RYR;FT;Kent, Surrey and Sussex;Western Sussex Hospitals;23;28;22;23;38;18;19;25;30;27;19;37;Western Sussex Hospitals
+RA3;--;Avon, Gloucestershire and Wiltshire;Weston Area Health;10;9;13;11;11;10;17;16;10;5;11;6;Weston Area Health
+RBL;FT;Cheshire and Merseyside;Wirral University Teaching Hospital;-;-;-;-;-;-;-;-;-;-;-;-;Wirral University Teaching Hospital
+RWP;--;West Midlands;Worcestershire Acute Hospitals;24;28;24;26;23;19;34;23;20;25;16;37;Worcestershire Acute Hospitals
+RRF;FT;Greater Manchester;Wrightington, Wigan & Leigh;8;7;16;17;17;5;8;13;9;15;15;8;Wrightington, Wigan & Leigh
+RLQ;--;West Midlands;Wye Valley;9;18;11;15;11;7;4;8;22;10;7;12;Wye Valley
+RA4;FT;Devon, Cornwall and Somerset;Yeovil District Hospital;7;8;5;7;6;5;6;7;2;7;7;5;Yeovil District Hospital
+RCB;FT;Yorkshire and Humber;York Teaching Hospital;49;40;32;33;49;42;35;44;50;42;25;40;York Teaching Hospital
+;;;;;;;;;;;;;;;;
+;;;Totals;2873;3025;2988;3207;3234;3035;3085;2907;2855;2858;2691;2918;Totals
+1On 1st July 2014 Barnet & Chase Farm Hospitals NHS Trust merged with Royal Free Hospital NHS Trust. Data prior to July 2014 for Barnet & Chase Farm Hospitals NHS Trust and Royal Free Hospital NHS Trust are combined and displayed under Royal Free Hospital NHS Trust.;;;;;;;;;;;;;;;;
+2On 1st October 2014 North West London NHS Trust and Ealing Hopsitals NHS Trust merged to form London North West Healthcare. Data prior to October 2014 for North West London NHS Trust and Ealing Hopsitals NHS Trust are combined and displayed under London North West Healthcare NHS Trust;;;;;;;;;;;;;;;;
+3 On 1st November 2014 Frimley Park NHS Foundation Trust and Heatherwood and Wexham Park NHS Trust merged to form Frimley Healthcare NHS Foundation Trust. Data prior to November 2014 for Frimley Park NHS Foundation Trust and Heatherwood and Wexham Park NHS Trust are combined and displayed under Frimley Healthcare NHS Foundation Trust;;;;;;;;;;;;;;;;
+4 On 1st February 2015 Royal United Hospital Bath NHS Foundation Trust merged with Royal Hopsital for Rheumatic Diseases NHS Trust. Data prior to February 2015 for Royal United Hospital Bath NHS Foundation Trust and Rheumatic Diseases NHS Trust are combined and displayed under Royal United Hospital Bath NHS Foundation Trust.;;;;;;;;;;;;;;;;
+¥On 1st November 2014 Mid Staffordshire NHS Foundation Trust was dissolved and services redistributed among the University Hospitals North Staffordshire NHS Trust and The Royal Wolverhampton Hospitals NHS Trust.  This reallocation of services will have led to an increase in reported cases for the recieving Trusts.;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+NB: Wirral University Teaching Hospital NHS Trust have not submitted E. coli bacteraemia data since February 2014. ;;;;;;;;;;;;;;;;
