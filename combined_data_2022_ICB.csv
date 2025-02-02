@@ -1,0 +1,537 @@
+source_file,Type,NHS_area_code,ONS_code,Name,Count_gp_appointments,Attended,Did_not_attend,Unknown,Month,Year,CCG_Name,ICB_Code,ICB_Name
+1,CCG,00L,E38000130,NHS Northumberland CCG,159 752,151 012,4 984,3 756,February,2022,NHS Northumberland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,00N,E38000163,NHS South Tyneside CCG,59 641,54 602,2 457,2 582,February,2022,NHS South Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,00P,E38000176,NHS Sunderland CCG,114 497,103 379,6 183,4 935,February,2022,NHS Sunderland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,00Q,E38000014,NHS Blackburn with Darwen CCG,74 471,67 634,3 543,3 294,February,2022,NHS Blackburn with Darwen CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,00R,E38000015,NHS Blackpool CCG,80 349,73 441,4 317,2 591,February,2022,NHS Blackpool CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,00T,E38000016,NHS Bolton CCG,135 845,122 471,8 394,4 980,February,2022,NHS Bolton CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,00V,E38000024,NHS Bury CCG,57 601,49 780,2 878,4 943,February,2022,NHS Bury CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,00X,E38000034,NHS Chorley and South Ribble CCG,72 278,66 376,3 178,2 724,February,2022,NHS Chorley and South Ribble CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,00Y,E38000135,NHS Oldham CCG,95 336,86 683,5 277,3 376,February,2022,NHS Oldham CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,01A,E38000050,NHS East Lancashire CCG,149 976,135 417,7 454,7 105,February,2022,NHS East Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,01D,E38000080,"NHS Heywood, Middleton and Rochdale CCG",88 528,80 900,4 867,2 761,February,2022,"NHS Heywood, Middleton and Rochdale CCG",QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,01E,E38000227,NHS Greater Preston CCG,88 263,78 616,4 063,5 584,February,2022,NHS Greater Preston CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,01F,E38000068,NHS Halton CCG,56 270,50 677,2 772,2 821,February,2022,NHS Halton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,01G,E38000143,NHS Salford CCG,111 409,98 216,6 820,6 373,February,2022,NHS Salford CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,01H,E38000215,NHS North Cumbria CCG,167 936,154 246,6 126,7 564,February,2022,NHS North Cumbria CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,01J,E38000091,NHS Knowsley CCG,69 733,63 556,3 871,2 306,February,2022,NHS Knowsley CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,01K,E38000228,NHS Morecambe Bay CCG,148 398,137 562,6 289,4 547,February,2022,NHS Morecambe Bay CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,01T,E38000161,NHS South Sefton CCG,51 405,47 268,2 355,1 782,February,2022,NHS South Sefton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,01V,E38000170,NHS Southport and Formby CCG,54 574,50 427,2 133,2 014,February,2022,NHS Southport and Formby CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,01W,E38000174,NHS Stockport CCG,139 991,128 545,6 258,5 188,February,2022,NHS Stockport CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,01X,E38000172,NHS St Helens CCG,71 551,63 625,4 050,3 876,February,2022,NHS St Helens CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,01Y,E38000182,NHS Tameside and Glossop CCG,105 453,93 353,6 158,5 942,February,2022,NHS Tameside and Glossop CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,02A,E38000187,NHS Trafford CCG,71 314,63 950,4 382,2 982,February,2022,NHS Trafford CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,02E,E38000194,NHS Warrington CCG,89 948,84 524,2 694,2 730,February,2022,NHS Warrington CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,02G,E38000200,NHS West Lancashire CCG,46 684,43 174,1 900,1 610,February,2022,NHS West Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,02H,E38000205,NHS Wigan Borough CCG,117 976,105 481,6 633,5 862,February,2022,NHS Wigan Borough CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,02M,E38000226,NHS Fylde and Wyre CCG,86 594,79 328,3 023,4 243,February,2022,NHS Fylde and Wyre CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+1,CCG,02P,E38000006,NHS Barnsley CCG,111 598,101 429,4 946,5 223,February,2022,NA,NA,NA
+1,CCG,02Q,E38000008,NHS Bassetlaw CCG,54 186,51 309,1 819,1 058,February,2022,NA,NA,NA
+1,CCG,02T,E38000025,NHS Calderdale CCG,97 512,91 938,3 242,2 332,February,2022,NHS Calderdale CCG,QWO,NHS West Yorkshire Integrated Care Board
+1,CCG,02X,E38000044,NHS Doncaster CCG,137 798,127 219,6 652,3 927,February,2022,NA,NA,NA
+1,CCG,02Y,E38000052,NHS East Riding of Yorkshire CCG,125 856,118 465,4 125,3 266,February,2022,NA,NA,NA
+1,CCG,03F,E38000085,NHS Hull CCG,120 183,109 703,6 927,3 553,February,2022,NA,NA,NA
+1,CCG,03H,E38000119,NHS North East Lincolnshire CCG,93 234,87 398,2 659,3 177,February,2022,NA,NA,NA
+1,CCG,03K,E38000122,NHS North Lincolnshire CCG,88 298,81 981,2 380,3 937,February,2022,NA,NA,NA
+1,CCG,03L,E38000141,NHS Rotherham CCG,133 381,124 302,5 097,3 982,February,2022,NA,NA,NA
+1,CCG,03N,E38000146,NHS Sheffield CCG,268 329,248 288,10 576,9 465,February,2022,NA,NA,NA
+1,CCG,03Q,E38000188,NHS Vale of York CCG,145 470,136 227,4 947,4 296,February,2022,NA,NA,NA
+1,CCG,03R,E38000190,NHS Wakefield CCG,181 736,170 182,5 693,5 861,February,2022,NHS Wakefield CCG,QWO,NHS West Yorkshire Integrated Care Board
+1,CCG,03W,E38000051,NHS East Leicestershire and Rutland CCG,166 035,156 195,5 838,4 002,February,2022,NA,NA,NA
+1,CCG,04C,E38000097,NHS Leicester City CCG,185 573,170 844,8 149,6 580,February,2022,NA,NA,NA
+1,CCG,04V,E38000201,NHS West Leicestershire CCG,187 700,177 829,5 629,4 242,February,2022,NA,NA,NA
+1,CCG,04Y,E38000028,NHS Cannock Chase CCG,56 245,51 406,2 228,2 611,February,2022,NA,NA,NA
+1,CCG,05D,E38000053,NHS East Staffordshire CCG,61 795,55 473,2 635,3 687,February,2022,NA,NA,NA
+1,CCG,05G,E38000126,NHS North Staffordshire CCG,85 390,78 793,3 360,3 237,February,2022,NA,NA,NA
+1,CCG,05Q,E38000153,NHS South East Staffordshire and Seisdon Peninsula CCG,86 528,80 379,3 598,2 551,February,2022,NA,NA,NA
+1,CCG,05V,E38000173,NHS Stafford and Surrounds CCG,59 793,55 121,2 633,2 039,February,2022,NA,NA,NA
+1,CCG,05W,E38000175,NHS Stoke on Trent CCG,105 853,94 525,6 326,5 002,February,2022,NA,NA,NA
+1,CCG,06H,E38000026,NHS Cambridgeshire and Peterborough CCG,428 091,399 635,14 201,14 255,February,2022,NA,NA,NA
+1,CCG,06K,E38000049,NHS East and North Hertfordshire CCG,236 495,220 019,6 729,9 747,February,2022,NA,NA,NA
+1,CCG,06L,E38000086,NHS Ipswich and East Suffolk CCG,180 257,169 615,4 820,5 822,February,2022,NA,NA,NA
+1,CCG,06N,E38000079,NHS Herts Valley CCG,244 207,223 559,9 571,11 077,February,2022,NA,NA,NA
+1,CCG,06Q,E38000106,NHS Mid Essex CCG,160 921,151 706,4 302,4 913,February,2022,NA,NA,NA
+1,CCG,06T,E38000117,NHS North East Essex CCG,163 214,150 260,7 870,5 084,February,2022,NA,NA,NA
+1,CCG,07G,E38000185,NHS Thurrock CCG,76 477,70 918,2 155,3 404,February,2022,NA,NA,NA
+1,CCG,07H,E38000197,NHS West Essex CCG,123 699,116 929,3 701,3 069,February,2022,NA,NA,NA
+1,CCG,07K,E38000204,NHS West Suffolk CCG,109 097,103 785,2 713,2 599,February,2022,NA,NA,NA
+1,CCG,09D,E38000021,NHS Brighton and Hove CCG,122 223,112 766,4 743,4 714,February,2022,NA,NA,NA
+1,CCG,10Q,E38000136,NHS Oxfordshire CCG,324 086,300 508,11 380,12 198,February,2022,NA,NA,NA
+1,CCG,10R,E38000137,NHS Portsmouth CCG,81 881,75 685,3 550,2 646,February,2022,NA,NA,NA
+1,CCG,11J,E38000045,NHS Dorset CCG,371 771,348 771,12 160,10 840,February,2022,NHS Dorset CCG,QVV,NHS Dorset Integrated Care Board
+1,CCG,11M,E38000062,NHS Gloucestershire CCG,314 131,293 853,10 961,9 317,February,2022,NHS Gloucestershire CCG,QR1,NHS Gloucestershire Integrated Care Board
+1,CCG,11N,E38000089,NHS Kernow CCG,314 751,290 284,11 054,13 413,February,2022,NHS Kernow CCG,QT6,NHS Cornwall and the Isles of Scilly Integrated Care Board
+1,CCG,11X,E38000150,NHS Somerset CCG,241 483,221 254,9 830,10 399,February,2022,NHS Somerset CCG,QSL,NHS Somerset Integrated Care Board
+1,CCG,12F,E38000208,NHS Wirral CCG,176 983,161 319,9 243,6 421,February,2022,NA,NA,NA
+1,CCG,13T,E38000212,NHS Newcastle Gateshead CCG,219 732,200 173,10 948,8 611,February,2022,NHS Newcastle Gateshead CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,14L,E38000217,NHS Manchester CCG,262 871,230 700,17 053,15 118,February,2022,NHS Manchester CCG,QOP,NHS Greater Manchester Integrated Care Board
+1,CCG,14Y,E38000223,NHS Buckinghamshire CCG,215 327,199 956,7 936,7 435,February,2022,NA,NA,NA
+1,CCG,15A,E38000221,NHS Berkshire West CCG,223 246,205 949,9 529,7 768,February,2022,NA,NA,NA
+1,CCG,15C,E38000222,"NHS Bristol, North Somerset and South Gloucestershire CCG",416 286,382 044,19 116,15 126,February,2022,NA,NA,NA
+1,CCG,15E,E38000220,NHS Birmingham and Solihull CCG,559 504,508 138,32 183,19 183,February,2022,NHS Birmingham and Solihull CCG,QHL,NHS Birmingham and Solihull Integrated Care Board
+1,CCG,15F,E38000225,NHS Leeds CCG,385 066,359 083,15 792,10 191,February,2022,NHS Leeds CCG,QWO,NHS West Yorkshire Integrated Care Board
+1,CCG,15M,E38000229,NHS Derby and Derbyshire CCG,492 542,459 214,15 203,18 125,February,2022,NHS Derby and Derbyshire CCG,QJ2,NHS Derby and Derbyshire Integrated Care Board
+1,CCG,15N,E38000230,NHS Devon CCG,635 095,590 610,22 303,22 182,February,2022,NHS Devon CCG,QJK,NHS Devon Integrated Care Board
+1,CCG,16C,E38000247,NHS Tees Valley CCG,321 796,297 289,14 222,10 285,February,2022,NHS Tees Valley CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,18C,E38000236,NHS Herefordshire CCG,404 049,376 275,15 889,11 885,February,2022,NA,NA,NA
+1,CCG,26A,E38000239,NHS Norfolk and Waveney CCG,514 797,479 493,17 258,18 046,February,2022,NHS Norfolk and Waveney CCG,QMM,NHS Norfolk and Waveney Integrated Care Board
+1,CCG,27D,E38000233,NHS Cheshire CCG,324 058,293 717,15 890,14 451,February,2022,NHS Cheshire CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,36J,E38000232,NHS Bradford District and Craven CCG,349 425,322 019,11 102,16 304,February,2022,NHS Bradford District and Craven CCG,QWO,NHS West Yorkshire Integrated Care Board
+1,CCG,36L,E38000245,NHS South West London CCG,622 835,562 616,34 568,25 651,February,2022,NA,NA,NA
+1,CCG,42D,E38000241,NHS North Yorkshire CCG,211 504,199 254,5 856,6 394,February,2022,NA,NA,NA
+1,CCG,52R,E38000243,NHS Nottingham and Nottinghamshire CCG,482 621,448 184,18 434,16 003,February,2022,NA,NA,NA
+1,CCG,70F,E38000248,NHS West Sussex CCG,379 593,356 129,11 400,12 064,February,2022,NA,NA,NA
+1,CCG,71E,E38000238,NHS Lincolnshire CCG,360 428,337 065,12 434,10 929,February,2022,NHS Lincolnshire CCG,QJM,NHS Lincolnshire Integrated Care Board
+1,CCG,72Q,E38000244,NHS South East London CCG,673 031,608 699,36 640,27 692,February,2022,NA,NA,NA
+1,CCG,78H,E38000242,NHS Northamptonshire CCG,334 408,315 062,9 627,9 719,February,2022,NHS Northamptonshire CCG,QPM,NHS Northamptonshire Integrated Care Board
+1,CCG,84H,E38000234,NHS County Durham CCG,301 702,282 439,10 355,8 908,February,2022,NHS County Durham CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,91Q,E38000237,NHS Kent and Medway CCG,794 640,723 862,34 447,36 331,February,2022,NA,NA,NA
+1,CCG,92A,E38000246,NHS Surrey Heartlands CCG,421 029,388 198,17 931,14 900,February,2022,NHS Surrey Heartlands CCG,QXU,NHS Surrey Heartlands Integrated Care Board
+1,CCG,92G,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",447 972,419 434,12 947,15 591,February,2022,NA,NA,NA
+1,CCG,93C,E38000240,NHS North Central London CCG,587 932,534 758,32 348,20 826,February,2022,NA,NA,NA
+1,CCG,97R,E38000235,NHS East Sussex CCG,257 716,235 699,10 730,11 287,February,2022,NA,NA,NA
+1,CCG,99A,E38000101,NHS Liverpool CCG,230 393,207 704,14 491,8 198,February,2022,NHS Liverpool CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+1,CCG,99C,E38000127,NHS North Tyneside CCG,94 432,87 502,3 873,3 057,February,2022,NHS North Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+1,CCG,99E,E38000007,NHS Basildon and Brentwood CCG,111 401,104 370,2 911,4 120,February,2022,NA,NA,NA
+1,CCG,99F,E38000030,NHS Castle Point and Rochford CCG,67 510,63 398,1 786,2 326,February,2022,NA,NA,NA
+1,CCG,99G,E38000168,NHS Southend CCG,66 287,62 388,2 155,1 744,February,2022,NA,NA,NA
+1,CCG,A3A8R,E38000255,NHS North East London CCG,827 045,741 753,48 607,36 685,February,2022,NA,NA,NA
+1,CCG,B2M3M,E38000251,NHS Coventry and Warwickshire CCG,413 723,381 636,17 242,14 845,February,2022,NA,NA,NA
+1,CCG,D2P2L,E38000250,NHS Black Country and West Birmingham CCG,610 764,551 853,35 622,23 289,February,2022,NA,NA,NA
+1,CCG,D4U1Y,E38000252,NHS Frimley CCG,320 586,296 903,13 762,9 921,February,2022,NA,NA,NA
+1,CCG,D9Y0V,E38000253,"NHS Hampshire, Southampton and Isle of Wight CCG",703 493,649 121,29 481,24 891,February,2022,NA,NA,NA
+1,CCG,M1J4Y,E38000249,"NHS Bedfordshire, Luton and Milton Keynes CCG",419 345,389 974,16 278,13 093,February,2022,NA,NA,NA
+1,CCG,M2L0M,E38000257,NHS Shropshire and Telford and Wrekin CCG,220 679,205 046,8 259,7 374,February,2022,NA,NA,NA
+1,CCG,W2U3Z,E38000256,NHS North West London CCG,1 053 468,966 601,49 980,36 887,February,2022,NA,NA,NA
+1,CCG,X2C4Y,E38000254,NHS Kirklees CCG,200 581,188 331,6 385,5 865,February,2022,NA,NA,NA
+2,CCG,00L,E38000130,NHS Northumberland CCG,160 625,151 122,5 269,4 234,January,2022,NHS Northumberland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,00N,E38000163,NHS South Tyneside CCG,60 233,55 289,2 425,2 519,January,2022,NHS South Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,00P,E38000176,NHS Sunderland CCG,117 170,104 446,6 369,6 355,January,2022,NHS Sunderland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,00Q,E38000014,NHS Blackburn with Darwen CCG,77 476,70 409,3 899,3 168,January,2022,NHS Blackburn with Darwen CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,00R,E38000015,NHS Blackpool CCG,81 085,74 178,4 029,2 878,January,2022,NHS Blackpool CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,00T,E38000016,NHS Bolton CCG,133 402,119 042,8 430,5 930,January,2022,NHS Bolton CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,00V,E38000024,NHS Bury CCG,55 221,46 625,2 759,5 837,January,2022,NHS Bury CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,00X,E38000034,NHS Chorley and South Ribble CCG,72 651,66 300,3 058,3 293,January,2022,NHS Chorley and South Ribble CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,00Y,E38000135,NHS Oldham CCG,96 322,87 025,5 373,3 924,January,2022,NHS Oldham CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,01A,E38000050,NHS East Lancashire CCG,153 491,137 965,7 400,8 126,January,2022,NHS East Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,01D,E38000080,"NHS Heywood, Middleton and Rochdale CCG",87 764,79 557,4 715,3 492,January,2022,"NHS Heywood, Middleton and Rochdale CCG",QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,01E,E38000227,NHS Greater Preston CCG,88 249,77 594,4 102,6 553,January,2022,NHS Greater Preston CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,01F,E38000068,NHS Halton CCG,54 792,49 679,2 627,2 486,January,2022,NHS Halton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,01G,E38000143,NHS Salford CCG,114 600,100 095,6 985,7 520,January,2022,NHS Salford CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,01H,E38000215,NHS North Cumbria CCG,169 364,154 439,6 092,8 833,January,2022,NHS North Cumbria CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,01J,E38000091,NHS Knowsley CCG,71 674,65 198,4 100,2 376,January,2022,NHS Knowsley CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,01K,E38000228,NHS Morecambe Bay CCG,148 414,137 792,5 738,4 884,January,2022,NHS Morecambe Bay CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,01T,E38000161,NHS South Sefton CCG,53 244,48 897,2 334,2 013,January,2022,NHS South Sefton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,01V,E38000170,NHS Southport and Formby CCG,56 208,51 668,2 144,2 396,January,2022,NHS Southport and Formby CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,01W,E38000174,NHS Stockport CCG,141 607,129 811,6 382,5 414,January,2022,NHS Stockport CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,01X,E38000172,NHS St Helens CCG,71 681,63 439,3 835,4 407,January,2022,NHS St Helens CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,01Y,E38000182,NHS Tameside and Glossop CCG,105 779,91 999,6 097,7 683,January,2022,NHS Tameside and Glossop CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,02A,E38000187,NHS Trafford CCG,70 875,63 499,4 201,3 175,January,2022,NHS Trafford CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,02E,E38000194,NHS Warrington CCG,89 865,83 599,2 553,3 713,January,2022,NHS Warrington CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,02G,E38000200,NHS West Lancashire CCG,48 419,44 696,1 994,1 729,January,2022,NHS West Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,02H,E38000205,NHS Wigan Borough CCG,116 286,104 183,6 260,5 843,January,2022,NHS Wigan Borough CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,02M,E38000226,NHS Fylde and Wyre CCG,88 420,80 713,2 978,4 729,January,2022,NHS Fylde and Wyre CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+2,CCG,02P,E38000006,NHS Barnsley CCG,112 531,102 327,4 610,5 594,January,2022,NA,NA,NA
+2,CCG,02Q,E38000008,NHS Bassetlaw CCG,56 182,52 837,2 129,1 216,January,2022,NA,NA,NA
+2,CCG,02T,E38000025,NHS Calderdale CCG,100 042,93 985,3 395,2 662,January,2022,NHS Calderdale CCG,QWO,NHS West Yorkshire Integrated Care Board
+2,CCG,02X,E38000044,NHS Doncaster CCG,136 999,126 112,6 576,4 311,January,2022,NA,NA,NA
+2,CCG,02Y,E38000052,NHS East Riding of Yorkshire CCG,129 685,121 854,4 323,3 508,January,2022,NA,NA,NA
+2,CCG,03F,E38000085,NHS Hull CCG,121 824,111 195,6 800,3 829,January,2022,NA,NA,NA
+2,CCG,03H,E38000119,NHS North East Lincolnshire CCG,93 349,87 059,2 822,3 468,January,2022,NA,NA,NA
+2,CCG,03K,E38000122,NHS North Lincolnshire CCG,88 515,81 447,2 594,4 474,January,2022,NA,NA,NA
+2,CCG,03L,E38000141,NHS Rotherham CCG,134 792,125 171,5 222,4 399,January,2022,NA,NA,NA
+2,CCG,03N,E38000146,NHS Sheffield CCG,273 160,251 837,11 414,9 909,January,2022,NA,NA,NA
+2,CCG,03Q,E38000188,NHS Vale of York CCG,144 113,135 289,4 614,4 210,January,2022,NA,NA,NA
+2,CCG,03R,E38000190,NHS Wakefield CCG,189 842,176 520,6 150,7 172,January,2022,NHS Wakefield CCG,QWO,NHS West Yorkshire Integrated Care Board
+2,CCG,03W,E38000051,NHS East Leicestershire and Rutland CCG,166 971,156 967,5 936,4 068,January,2022,NA,NA,NA
+2,CCG,04C,E38000097,NHS Leicester City CCG,186 476,171 165,8 130,7 181,January,2022,NA,NA,NA
+2,CCG,04V,E38000201,NHS West Leicestershire CCG,189 988,179 474,5 849,4 665,January,2022,NA,NA,NA
+2,CCG,04Y,E38000028,NHS Cannock Chase CCG,57 684,52 566,2 543,2 575,January,2022,NA,NA,NA
+2,CCG,05D,E38000053,NHS East Staffordshire CCG,61 791,55 728,2 561,3 502,January,2022,NA,NA,NA
+2,CCG,05G,E38000126,NHS North Staffordshire CCG,84 101,77 263,3 040,3 798,January,2022,NA,NA,NA
+2,CCG,05Q,E38000153,NHS South East Staffordshire and Seisdon Peninsula CCG,86 614,80 736,3 234,2 644,January,2022,NA,NA,NA
+2,CCG,05V,E38000173,NHS Stafford and Surrounds CCG,59 365,54 356,2 626,2 383,January,2022,NA,NA,NA
+2,CCG,05W,E38000175,NHS Stoke on Trent CCG,108 050,96 806,6 771,4 473,January,2022,NA,NA,NA
+2,CCG,06H,E38000026,NHS Cambridgeshire and Peterborough CCG,438 500,409 845,14 564,14 091,January,2022,NA,NA,NA
+2,CCG,06K,E38000049,NHS East and North Hertfordshire CCG,232 967,216 002,6 834,10 131,January,2022,NA,NA,NA
+2,CCG,06L,E38000086,NHS Ipswich and East Suffolk CCG,187 001,175 855,4 821,6 325,January,2022,NA,NA,NA
+2,CCG,06N,E38000079,NHS Herts Valley CCG,245 304,224 768,9 709,10 827,January,2022,NA,NA,NA
+2,CCG,06Q,E38000106,NHS Mid Essex CCG,162 706,153 863,4 003,4 840,January,2022,NA,NA,NA
+2,CCG,06T,E38000117,NHS North East Essex CCG,164 244,150 880,7 643,5 721,January,2022,NA,NA,NA
+2,CCG,07G,E38000185,NHS Thurrock CCG,75 264,70 188,1 997,3 079,January,2022,NA,NA,NA
+2,CCG,07H,E38000197,NHS West Essex CCG,124 429,117 109,3 846,3 474,January,2022,NA,NA,NA
+2,CCG,07K,E38000204,NHS West Suffolk CCG,111 966,107 064,2 613,2 289,January,2022,NA,NA,NA
+2,CCG,09D,E38000021,NHS Brighton and Hove CCG,122 529,113 728,4 556,4 245,January,2022,NA,NA,NA
+2,CCG,10Q,E38000136,NHS Oxfordshire CCG,327 282,303 220,11 641,12 421,January,2022,NA,NA,NA
+2,CCG,10R,E38000137,NHS Portsmouth CCG,82 382,76 408,3 541,2 433,January,2022,NA,NA,NA
+2,CCG,11J,E38000045,NHS Dorset CCG,386 424,363 455,12 747,10 222,January,2022,NHS Dorset CCG,QVV,NHS Dorset Integrated Care Board
+2,CCG,11M,E38000062,NHS Gloucestershire CCG,318 158,298 331,10 961,8 866,January,2022,NHS Gloucestershire CCG,QR1,NHS Gloucestershire Integrated Care Board
+2,CCG,11N,E38000089,NHS Kernow CCG,322 696,297 261,11 223,14 212,January,2022,NHS Kernow CCG,QT6,NHS Cornwall and the Isles of Scilly Integrated Care Board
+2,CCG,11X,E38000150,NHS Somerset CCG,246 162,225 879,9 841,10 442,January,2022,NHS Somerset CCG,QSL,NHS Somerset Integrated Care Board
+2,CCG,12F,E38000208,NHS Wirral CCG,179 313,162 477,8 934,7 902,January,2022,NA,NA,NA
+2,CCG,13T,E38000212,NHS Newcastle Gateshead CCG,221 639,202 909,10 822,7 908,January,2022,NHS Newcastle Gateshead CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,14L,E38000217,NHS Manchester CCG,264 767,232 443,17 177,15 147,January,2022,NHS Manchester CCG,QOP,NHS Greater Manchester Integrated Care Board
+2,CCG,14Y,E38000223,NHS Buckinghamshire CCG,221 284,206 081,7 555,7 648,January,2022,NA,NA,NA
+2,CCG,15A,E38000221,NHS Berkshire West CCG,224 950,207 538,9 544,7 868,January,2022,NA,NA,NA
+2,CCG,15C,E38000222,"NHS Bristol, North Somerset and South Gloucestershire CCG",423 342,388 818,18 651,15 873,January,2022,NA,NA,NA
+2,CCG,15E,E38000220,NHS Birmingham and Solihull CCG,555 645,503 624,31 538,20 483,January,2022,NHS Birmingham and Solihull CCG,QHL,NHS Birmingham and Solihull Integrated Care Board
+2,CCG,15F,E38000225,NHS Leeds CCG,400 222,371 197,16 970,12 055,January,2022,NHS Leeds CCG,QWO,NHS West Yorkshire Integrated Care Board
+2,CCG,15M,E38000229,NHS Derby and Derbyshire CCG,493 184,459 013,15 743,18 428,January,2022,NHS Derby and Derbyshire CCG,QJ2,NHS Derby and Derbyshire Integrated Care Board
+2,CCG,15N,E38000230,NHS Devon CCG,646 505,602 241,22 388,21 876,January,2022,NHS Devon CCG,QJK,NHS Devon Integrated Care Board
+2,CCG,16C,E38000247,NHS Tees Valley CCG,327 161,299 789,15 146,12 226,January,2022,NHS Tees Valley CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,18C,E38000236,NHS Herefordshire CCG,405 309,377 233,15 975,12 101,January,2022,NA,NA,NA
+2,CCG,26A,E38000239,NHS Norfolk and Waveney CCG,527 480,491 378,18 262,17 840,January,2022,NHS Norfolk and Waveney CCG,QMM,NHS Norfolk and Waveney Integrated Care Board
+2,CCG,27D,E38000233,NHS Cheshire CCG,329 422,298 874,15 739,14 809,January,2022,NHS Cheshire CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,36J,E38000232,NHS Bradford District and Craven CCG,357 563,329 250,11 763,16 550,January,2022,NHS Bradford District and Craven CCG,QWO,NHS West Yorkshire Integrated Care Board
+2,CCG,36L,E38000245,NHS South West London CCG,620 753,563 069,31 915,25 769,January,2022,NA,NA,NA
+2,CCG,42D,E38000241,NHS North Yorkshire CCG,215 014,202 012,6 230,6 772,January,2022,NA,NA,NA
+2,CCG,52R,E38000243,NHS Nottingham and Nottinghamshire CCG,485 633,449 203,19 352,17 078,January,2022,NA,NA,NA
+2,CCG,70F,E38000248,NHS West Sussex CCG,390 888,366 865,11 606,12 417,January,2022,NA,NA,NA
+2,CCG,71E,E38000238,NHS Lincolnshire CCG,359 370,334 610,12 844,11 916,January,2022,NHS Lincolnshire CCG,QJM,NHS Lincolnshire Integrated Care Board
+2,CCG,72Q,E38000244,NHS South East London CCG,681 122,616 862,34 471,29 789,January,2022,NA,NA,NA
+2,CCG,78H,E38000242,NHS Northamptonshire CCG,346 114,327 002,9 799,9 313,January,2022,NHS Northamptonshire CCG,QPM,NHS Northamptonshire Integrated Care Board
+2,CCG,84H,E38000234,NHS County Durham CCG,303 416,282 558,10 778,10 080,January,2022,NHS County Durham CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,91Q,E38000237,NHS Kent and Medway CCG,808 206,737 021,33 914,37 271,January,2022,NA,NA,NA
+2,CCG,92A,E38000246,NHS Surrey Heartlands CCG,424 671,391 353,18 050,15 268,January,2022,NHS Surrey Heartlands CCG,QXU,NHS Surrey Heartlands Integrated Care Board
+2,CCG,92G,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",457 875,428 064,13 744,16 067,January,2022,NA,NA,NA
+2,CCG,93C,E38000240,NHS North Central London CCG,586 319,534 594,30 716,21 009,January,2022,NA,NA,NA
+2,CCG,97R,E38000235,NHS East Sussex CCG,266 144,244 110,10 414,11 620,January,2022,NA,NA,NA
+2,CCG,99A,E38000101,NHS Liverpool CCG,233 206,211 350,13 826,8 030,January,2022,NHS Liverpool CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+2,CCG,99C,E38000127,NHS North Tyneside CCG,97 171,89 648,4 013,3 510,January,2022,NHS North Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+2,CCG,99E,E38000007,NHS Basildon and Brentwood CCG,114 476,107 935,2 742,3 799,January,2022,NA,NA,NA
+2,CCG,99F,E38000030,NHS Castle Point and Rochford CCG,69 805,65 723,1 766,2 316,January,2022,NA,NA,NA
+2,CCG,99G,E38000168,NHS Southend CCG,67 164,62 788,2 059,2 317,January,2022,NA,NA,NA
+2,CCG,A3A8R,E38000255,NHS North East London CCG,830 143,746 753,48 072,35 318,January,2022,NA,NA,NA
+2,CCG,B2M3M,E38000251,NHS Coventry and Warwickshire CCG,416 350,384 351,17 000,14 999,January,2022,NA,NA,NA
+2,CCG,D2P2L,E38000250,NHS Black Country and West Birmingham CCG,607 091,546 798,36 428,23 865,January,2022,NA,NA,NA
+2,CCG,D4U1Y,E38000252,NHS Frimley CCG,321 167,298 834,13 100,9 233,January,2022,NA,NA,NA
+2,CCG,D9Y0V,E38000253,"NHS Hampshire, Southampton and Isle of Wight CCG",714 876,661 037,29 269,24 570,January,2022,NA,NA,NA
+2,CCG,M1J4Y,E38000249,"NHS Bedfordshire, Luton and Milton Keynes CCG",423 972,394 337,16 831,12 804,January,2022,NA,NA,NA
+2,CCG,M2L0M,E38000257,NHS Shropshire and Telford and Wrekin CCG,218 581,203 005,7 803,7 773,January,2022,NA,NA,NA
+2,CCG,W2U3Z,E38000256,NHS North West London CCG,998 480,917 997,45 356,35 127,January,2022,NA,NA,NA
+2,CCG,X2C4Y,E38000254,NHS Kirklees CCG,204 806,190 991,6 821,6 994,January,2022,NA,NA,NA
+3,CCG,00L,E38000130,NHS Northumberland CCG,187 123,176 268,6 097,4 758,March,2022,NHS Northumberland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,00N,E38000163,NHS South Tyneside CCG,69 906,63 951,2 938,3 017,March,2022,NHS South Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,00P,E38000176,NHS Sunderland CCG,136 678,123 417,7 281,5 980,March,2022,NHS Sunderland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,00Q,E38000014,NHS Blackburn with Darwen CCG,83 704,76 233,4 228,3 243,March,2022,NHS Blackburn with Darwen CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,00R,E38000015,NHS Blackpool CCG,96 965,88 336,5 267,3 362,March,2022,NHS Blackpool CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,00T,E38000016,NHS Bolton CCG,165 249,147 710,10 736,6 803,March,2022,NHS Bolton CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,00V,E38000024,NHS Bury CCG,70 489,61 336,3 099,6 054,March,2022,NHS Bury CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,00X,E38000034,NHS Chorley and South Ribble CCG,83 799,76 066,3 905,3 828,March,2022,NHS Chorley and South Ribble CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,00Y,E38000135,NHS Oldham CCG,114 350,104 210,6 390,3 750,March,2022,NHS Oldham CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,01A,E38000050,NHS East Lancashire CCG,177 670,159 539,8 995,9 136,March,2022,NHS East Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,01D,E38000080,"NHS Heywood, Middleton and Rochdale CCG",104 822,95 671,5 714,3 437,March,2022,"NHS Heywood, Middleton and Rochdale CCG",QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,01E,E38000227,NHS Greater Preston CCG,98 459,87 630,4 747,6 082,March,2022,NHS Greater Preston CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,01F,E38000068,NHS Halton CCG,64 431,57 791,3 303,3 337,March,2022,NHS Halton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,01G,E38000143,NHS Salford CCG,139 078,122 188,8 793,8 097,March,2022,NHS Salford CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,01H,E38000215,NHS North Cumbria CCG,193 825,176 111,7 852,9 862,March,2022,NHS North Cumbria CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,01J,E38000091,NHS Knowsley CCG,82 140,74 690,4 707,2 743,March,2022,NHS Knowsley CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,01K,E38000228,NHS Morecambe Bay CCG,172 899,160 160,7 137,5 602,March,2022,NHS Morecambe Bay CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,01T,E38000161,NHS South Sefton CCG,60 458,55 335,2 986,2 137,March,2022,NHS South Sefton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,01V,E38000170,NHS Southport and Formby CCG,63 930,58 694,2 783,2 453,March,2022,NHS Southport and Formby CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,01W,E38000174,NHS Stockport CCG,164 383,150 091,7 938,6 354,March,2022,NHS Stockport CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,01X,E38000172,NHS St Helens CCG,92 320,79 346,6 687,6 287,March,2022,NHS St Helens CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,01Y,E38000182,NHS Tameside and Glossop CCG,126 089,111 634,7 238,7 217,March,2022,NHS Tameside and Glossop CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,02A,E38000187,NHS Trafford CCG,81 644,72 936,4 955,3 753,March,2022,NHS Trafford CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,02E,E38000194,NHS Warrington CCG,107 076,100 376,3 383,3 317,March,2022,NHS Warrington CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,02G,E38000200,NHS West Lancashire CCG,55 219,50 854,2 368,1 997,March,2022,NHS West Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,02H,E38000205,NHS Wigan Borough CCG,138 248,123 413,7 861,6 974,March,2022,NHS Wigan Borough CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,02M,E38000226,NHS Fylde and Wyre CCG,102 099,93 109,3 816,5 174,March,2022,NHS Fylde and Wyre CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+3,CCG,02P,E38000006,NHS Barnsley CCG,129 206,118 066,5 545,5 595,March,2022,NA,NA,NA
+3,CCG,02Q,E38000008,NHS Bassetlaw CCG,66 031,61 864,2 293,1 874,March,2022,NA,NA,NA
+3,CCG,02T,E38000025,NHS Calderdale CCG,113 656,106 793,3 882,2 981,March,2022,NHS Calderdale CCG,QWO,NHS West Yorkshire Integrated Care Board
+3,CCG,02X,E38000044,NHS Doncaster CCG,162 807,149 350,8 173,5 284,March,2022,NA,NA,NA
+3,CCG,02Y,E38000052,NHS East Riding of Yorkshire CCG,145 965,136 566,4 764,4 635,March,2022,NA,NA,NA
+3,CCG,03F,E38000085,NHS Hull CCG,136 327,123 579,8 116,4 632,March,2022,NA,NA,NA
+3,CCG,03H,E38000119,NHS North East Lincolnshire CCG,106 103,98 381,3 156,4 566,March,2022,NA,NA,NA
+3,CCG,03K,E38000122,NHS North Lincolnshire CCG,99 317,90 633,3 162,5 522,March,2022,NA,NA,NA
+3,CCG,03L,E38000141,NHS Rotherham CCG,153 796,142 333,6 070,5 393,March,2022,NA,NA,NA
+3,CCG,03N,E38000146,NHS Sheffield CCG,309 832,285 229,12 590,12 013,March,2022,NA,NA,NA
+3,CCG,03Q,E38000188,NHS Vale of York CCG,166 966,155 297,6 081,5 588,March,2022,NA,NA,NA
+3,CCG,03R,E38000190,NHS Wakefield CCG,218 467,203 891,6 822,7 754,March,2022,NHS Wakefield CCG,QWO,NHS West Yorkshire Integrated Care Board
+3,CCG,03W,E38000051,NHS East Leicestershire and Rutland CCG,195 974,182 327,7 791,5 856,March,2022,NA,NA,NA
+3,CCG,04C,E38000097,NHS Leicester City CCG,216 292,198 342,9 738,8 212,March,2022,NA,NA,NA
+3,CCG,04V,E38000201,NHS West Leicestershire CCG,218 397,205 393,6 883,6 121,March,2022,NA,NA,NA
+3,CCG,04Y,E38000028,NHS Cannock Chase CCG,64 760,58 791,2 652,3 317,March,2022,NA,NA,NA
+3,CCG,05D,E38000053,NHS East Staffordshire CCG,68 730,61 574,2 918,4 238,March,2022,NA,NA,NA
+3,CCG,05G,E38000126,NHS North Staffordshire CCG,98 649,90 596,4 070,3 983,March,2022,NA,NA,NA
+3,CCG,05Q,E38000153,NHS South East Staffordshire and Seisdon Peninsula CCG,101 430,94 345,3 919,3 166,March,2022,NA,NA,NA
+3,CCG,05V,E38000173,NHS Stafford and Surrounds CCG,70 086,64 042,3 121,2 923,March,2022,NA,NA,NA
+3,CCG,05W,E38000175,NHS Stoke on Trent CCG,122 304,108 895,7 618,5 791,March,2022,NA,NA,NA
+3,CCG,06H,E38000026,NHS Cambridgeshire and Peterborough CCG,518 698,483 461,18 294,16 943,March,2022,NA,NA,NA
+3,CCG,06K,E38000049,NHS East and North Hertfordshire CCG,278 282,257 511,8 428,12 343,March,2022,NA,NA,NA
+3,CCG,06L,E38000086,NHS Ipswich and East Suffolk CCG,203 250,190 624,5 400,7 226,March,2022,NA,NA,NA
+3,CCG,06N,E38000079,NHS Herts Valley CCG,291 263,266 854,11 526,12 883,March,2022,NA,NA,NA
+3,CCG,06Q,E38000106,NHS Mid Essex CCG,187 368,175 515,4 876,6 977,March,2022,NA,NA,NA
+3,CCG,06T,E38000117,NHS North East Essex CCG,192 370,176 445,9 439,6 486,March,2022,NA,NA,NA
+3,CCG,07G,E38000185,NHS Thurrock CCG,89 663,83 250,2 685,3 728,March,2022,NA,NA,NA
+3,CCG,07H,E38000197,NHS West Essex CCG,145 732,137 006,4 552,4 174,March,2022,NA,NA,NA
+3,CCG,07K,E38000204,NHS West Suffolk CCG,128 320,122 694,3 087,2 539,March,2022,NA,NA,NA
+3,CCG,09D,E38000021,NHS Brighton and Hove CCG,143 681,132 433,5 724,5 524,March,2022,NA,NA,NA
+3,CCG,10Q,E38000136,NHS Oxfordshire CCG,373 802,347 189,13 493,13 120,March,2022,NA,NA,NA
+3,CCG,10R,E38000137,NHS Portsmouth CCG,92 147,85 258,3 898,2 991,March,2022,NA,NA,NA
+3,CCG,11J,E38000045,NHS Dorset CCG,431 930,403 776,14 336,13 818,March,2022,NHS Dorset CCG,QVV,NHS Dorset Integrated Care Board
+3,CCG,11M,E38000062,NHS Gloucestershire CCG,365 541,339 621,13 298,12 622,March,2022,NHS Gloucestershire CCG,QR1,NHS Gloucestershire Integrated Care Board
+3,CCG,11N,E38000089,NHS Kernow CCG,366 778,336 170,13 334,17 274,March,2022,NHS Kernow CCG,QT6,NHS Cornwall and the Isles of Scilly Integrated Care Board
+3,CCG,11X,E38000150,NHS Somerset CCG,280 466,256 341,11 418,12 707,March,2022,NHS Somerset CCG,QSL,NHS Somerset Integrated Care Board
+3,CCG,12F,E38000208,NHS Wirral CCG,209 473,189 267,11 053,9 153,March,2022,NA,NA,NA
+3,CCG,13T,E38000212,NHS Newcastle Gateshead CCG,253 850,229 799,13 278,10 773,March,2022,NHS Newcastle Gateshead CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,14L,E38000217,NHS Manchester CCG,309 065,270 619,20 870,17 576,March,2022,NHS Manchester CCG,QOP,NHS Greater Manchester Integrated Care Board
+3,CCG,14Y,E38000223,NHS Buckinghamshire CCG,245 132,227 996,9 232,7 904,March,2022,NA,NA,NA
+3,CCG,15A,E38000221,NHS Berkshire West CCG,260 694,239 414,11 153,10 127,March,2022,NA,NA,NA
+3,CCG,15C,E38000222,"NHS Bristol, North Somerset and South Gloucestershire CCG",484 243,443 983,22 406,17 854,March,2022,NA,NA,NA
+3,CCG,15E,E38000220,NHS Birmingham and Solihull CCG,648 507,587 443,37 852,23 212,March,2022,NHS Birmingham and Solihull CCG,QHL,NHS Birmingham and Solihull Integrated Care Board
+3,CCG,15F,E38000225,NHS Leeds CCG,455 999,422 962,19 437,13 600,March,2022,NHS Leeds CCG,QWO,NHS West Yorkshire Integrated Care Board
+3,CCG,15M,E38000229,NHS Derby and Derbyshire CCG,574 647,533 913,18 138,22 596,March,2022,NHS Derby and Derbyshire CCG,QJ2,NHS Derby and Derbyshire Integrated Care Board
+3,CCG,15N,E38000230,NHS Devon CCG,738 255,683 548,26 846,27 861,March,2022,NHS Devon CCG,QJK,NHS Devon Integrated Care Board
+3,CCG,16C,E38000247,NHS Tees Valley CCG,378 416,348 631,17 048,12 737,March,2022,NHS Tees Valley CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,18C,E38000236,NHS Herefordshire CCG,466 530,431 957,18 801,15 772,March,2022,NA,NA,NA
+3,CCG,26A,E38000239,NHS Norfolk and Waveney CCG,597 008,554 344,21 466,21 198,March,2022,NHS Norfolk and Waveney CCG,QMM,NHS Norfolk and Waveney Integrated Care Board
+3,CCG,27D,E38000233,NHS Cheshire CCG,379 636,343 209,18 819,17 608,March,2022,NHS Cheshire CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,36J,E38000232,NHS Bradford District and Craven CCG,407 396,374 038,12 785,20 573,March,2022,NHS Bradford District and Craven CCG,QWO,NHS West Yorkshire Integrated Care Board
+3,CCG,36L,E38000245,NHS South West London CCG,718 330,648 253,40 385,29 692,March,2022,NA,NA,NA
+3,CCG,42D,E38000241,NHS North Yorkshire CCG,249 256,233 487,7 391,8 378,March,2022,NA,NA,NA
+3,CCG,52R,E38000243,NHS Nottingham and Nottinghamshire CCG,561 609,519 620,22 649,19 340,March,2022,NA,NA,NA
+3,CCG,70F,E38000248,NHS West Sussex CCG,447 750,419 068,13 840,14 842,March,2022,NA,NA,NA
+3,CCG,71E,E38000238,NHS Lincolnshire CCG,425 563,395 468,15 330,14 765,March,2022,NHS Lincolnshire CCG,QJM,NHS Lincolnshire Integrated Care Board
+3,CCG,72Q,E38000244,NHS South East London CCG,779 452,702 182,43 986,33 284,March,2022,NA,NA,NA
+3,CCG,78H,E38000242,NHS Northamptonshire CCG,388 660,366 122,11 519,11 019,March,2022,NHS Northamptonshire CCG,QPM,NHS Northamptonshire Integrated Care Board
+3,CCG,84H,E38000234,NHS County Durham CCG,349 984,326 723,12 547,10 714,March,2022,NHS County Durham CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,91Q,E38000237,NHS Kent and Medway CCG,921 471,838 086,40 138,43 247,March,2022,NA,NA,NA
+3,CCG,92A,E38000246,NHS Surrey Heartlands CCG,492 040,452 487,21 236,18 317,March,2022,NHS Surrey Heartlands CCG,QXU,NHS Surrey Heartlands Integrated Care Board
+3,CCG,92G,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",521 158,485 466,15 931,19 761,March,2022,NA,NA,NA
+3,CCG,93C,E38000240,NHS North Central London CCG,679 743,615 683,38 722,25 338,March,2022,NA,NA,NA
+3,CCG,97R,E38000235,NHS East Sussex CCG,303 170,277 153,12 430,13 587,March,2022,NA,NA,NA
+3,CCG,99A,E38000101,NHS Liverpool CCG,272 329,245 550,16 838,9 941,March,2022,NHS Liverpool CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+3,CCG,99C,E38000127,NHS North Tyneside CCG,109 948,100 988,4 704,4 256,March,2022,NHS North Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+3,CCG,99E,E38000007,NHS Basildon and Brentwood CCG,130 196,121 998,3 572,4 626,March,2022,NA,NA,NA
+3,CCG,99F,E38000030,NHS Castle Point and Rochford CCG,79 865,74 725,2 119,3 021,March,2022,NA,NA,NA
+3,CCG,99G,E38000168,NHS Southend CCG,76 871,71 729,2 818,2 324,March,2022,NA,NA,NA
+3,CCG,A3A8R,E38000255,NHS North East London CCG,966 160,865 775,57 636,42 749,March,2022,NA,NA,NA
+3,CCG,B2M3M,E38000251,NHS Coventry and Warwickshire CCG,479 962,441 241,20 439,18 282,March,2022,NA,NA,NA
+3,CCG,D2P2L,E38000250,NHS Black Country and West Birmingham CCG,702 358,631 882,41 573,28 903,March,2022,NA,NA,NA
+3,CCG,D4U1Y,E38000252,NHS Frimley CCG,380 604,352 008,16 690,11 906,March,2022,NA,NA,NA
+3,CCG,D9Y0V,E38000253,"NHS Hampshire, Southampton and Isle of Wight CCG",830 074,763 293,36 026,30 755,March,2022,NA,NA,NA
+3,CCG,M1J4Y,E38000249,"NHS Bedfordshire, Luton and Milton Keynes CCG",486 886,450 616,19 729,16 541,March,2022,NA,NA,NA
+3,CCG,M2L0M,E38000257,NHS Shropshire and Telford and Wrekin CCG,256 176,236 456,9 836,9 884,March,2022,NA,NA,NA
+3,CCG,W2U3Z,E38000256,NHS North West London CCG,1 232 683,1 127 325,59 500,45 858,March,2022,NA,NA,NA
+3,CCG,X2C4Y,E38000254,NHS Kirklees CCG,235 433,219 937,7 859,7 637,March,2022,NA,NA,NA
+4,CCG,00L,E38000130,NHS Northumberland CCG,156 186,146 398,5 237,4 551,April,2022,NHS Northumberland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,00N,E38000163,NHS South Tyneside CCG,56 467,51 561,2 432,2 474,April,2022,NHS South Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,00P,E38000176,NHS Sunderland CCG,111 840,100 332,6 114,5 394,April,2022,NHS Sunderland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,00Q,E38000014,NHS Blackburn with Darwen CCG,66 799,61 031,3 372,2 396,April,2022,NHS Blackburn with Darwen CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,00R,E38000015,NHS Blackpool CCG,77 109,69 697,4 250,3 162,April,2022,NHS Blackpool CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,00T,E38000016,NHS Bolton CCG,130 847,116 176,8 859,5 812,April,2022,NHS Bolton CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,00V,E38000024,NHS Bury CCG,55 831,49 053,2 730,4 048,April,2022,NHS Bury CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,00X,E38000034,NHS Chorley and South Ribble CCG,68 639,62 066,3 296,3 277,April,2022,NHS Chorley and South Ribble CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,00Y,E38000135,NHS Oldham CCG,91 419,82 809,5 151,3 459,April,2022,NHS Oldham CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,01A,E38000050,NHS East Lancashire CCG,143 156,129 136,7 294,6 726,April,2022,NHS East Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,01D,E38000080,"NHS Heywood, Middleton and Rochdale CCG",80 296,73 123,4 550,2 623,April,2022,"NHS Heywood, Middleton and Rochdale CCG",QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,01E,E38000227,NHS Greater Preston CCG,78 556,69 670,3 750,5 136,April,2022,NHS Greater Preston CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,01F,E38000068,NHS Halton CCG,49 845,44 360,2 552,2 933,April,2022,NHS Halton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,01G,E38000143,NHS Salford CCG,107 522,93 929,6 208,7 385,April,2022,NHS Salford CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,01H,E38000215,NHS North Cumbria CCG,159 321,144 503,6 513,8 305,April,2022,NHS North Cumbria CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,01J,E38000091,NHS Knowsley CCG,66 068,59 784,4 171,2 113,April,2022,NHS Knowsley CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,01K,E38000228,NHS Morecambe Bay CCG,139 125,129 111,5 784,4 230,April,2022,NHS Morecambe Bay CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,01T,E38000161,NHS South Sefton CCG,47 686,43 861,2 252,1 573,April,2022,NHS South Sefton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,01V,E38000170,NHS Southport and Formby CCG,50 228,46 186,1 939,2 103,April,2022,NHS Southport and Formby CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,01W,E38000174,NHS Stockport CCG,131 629,120 058,6 406,5 165,April,2022,NHS Stockport CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,01X,E38000172,NHS St Helens CCG,73 976,63 115,4 819,6 042,April,2022,NHS St Helens CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,01Y,E38000182,NHS Tameside and Glossop CCG,97 379,85 911,5 861,5 607,April,2022,NHS Tameside and Glossop CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,02A,E38000187,NHS Trafford CCG,70 245,62 881,3 996,3 368,April,2022,NHS Trafford CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,02E,E38000194,NHS Warrington CCG,84 696,78 719,3 071,2 906,April,2022,NHS Warrington CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,02G,E38000200,NHS West Lancashire CCG,45 216,40 693,1 986,2 537,April,2022,NHS West Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,02H,E38000205,NHS Wigan Borough CCG,110 080,98 051,6 130,5 899,April,2022,NHS Wigan Borough CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,02M,E38000226,NHS Fylde and Wyre CCG,82 915,75 616,3 239,4 060,April,2022,NHS Fylde and Wyre CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+4,CCG,02P,E38000006,NHS Barnsley CCG,106 172,96 317,4 795,5 060,April,2022,NA,NA,NA
+4,CCG,02Q,E38000008,NHS Bassetlaw CCG,51 603,48 318,1 959,1 326,April,2022,NA,NA,NA
+4,CCG,02T,E38000025,NHS Calderdale CCG,94 569,89 035,3 164,2 370,April,2022,NHS Calderdale CCG,QWO,NHS West Yorkshire Integrated Care Board
+4,CCG,02X,E38000044,NHS Doncaster CCG,129 845,118 614,6 648,4 583,April,2022,NA,NA,NA
+4,CCG,02Y,E38000052,NHS East Riding of Yorkshire CCG,122 951,114 811,4 202,3 938,April,2022,NA,NA,NA
+4,CCG,03F,E38000085,NHS Hull CCG,108 676,98 675,6 176,3 825,April,2022,NA,NA,NA
+4,CCG,03H,E38000119,NHS North East Lincolnshire CCG,88 863,82 298,2 775,3 790,April,2022,NA,NA,NA
+4,CCG,03K,E38000122,NHS North Lincolnshire CCG,82 759,76 086,2 449,4 224,April,2022,NA,NA,NA
+4,CCG,03L,E38000141,NHS Rotherham CCG,125 339,116 638,4 842,3 859,April,2022,NA,NA,NA
+4,CCG,03N,E38000146,NHS Sheffield CCG,253 069,233 407,10 151,9 511,April,2022,NA,NA,NA
+4,CCG,03Q,E38000188,NHS Vale of York CCG,134 512,125 835,4 724,3 953,April,2022,NA,NA,NA
+4,CCG,03R,E38000190,NHS Wakefield CCG,180 605,168 130,5 830,6 645,April,2022,NHS Wakefield CCG,QWO,NHS West Yorkshire Integrated Care Board
+4,CCG,03W,E38000051,NHS East Leicestershire and Rutland CCG,153 909,143 905,5 415,4 589,April,2022,NA,NA,NA
+4,CCG,04C,E38000097,NHS Leicester City CCG,170 789,156 567,7 660,6 562,April,2022,NA,NA,NA
+4,CCG,04V,E38000201,NHS West Leicestershire CCG,177 351,167 021,5 622,4 708,April,2022,NA,NA,NA
+4,CCG,04Y,E38000028,NHS Cannock Chase CCG,52 645,48 190,2 164,2 291,April,2022,NA,NA,NA
+4,CCG,05D,E38000053,NHS East Staffordshire CCG,57 327,51 845,2 216,3 266,April,2022,NA,NA,NA
+4,CCG,05G,E38000126,NHS North Staffordshire CCG,80 650,74 293,3 094,3 263,April,2022,NA,NA,NA
+4,CCG,05Q,E38000153,NHS South East Staffordshire and Seisdon Peninsula CCG,81 973,76 205,3 503,2 265,April,2022,NA,NA,NA
+4,CCG,05V,E38000173,NHS Stafford and Surrounds CCG,56 275,51 895,2 613,1 767,April,2022,NA,NA,NA
+4,CCG,05W,E38000175,NHS Stoke on Trent CCG,94 424,83 325,6 094,5 005,April,2022,NA,NA,NA
+4,CCG,06H,E38000026,NHS Cambridgeshire and Peterborough CCG,411 962,383 657,13 990,14 315,April,2022,NA,NA,NA
+4,CCG,06K,E38000049,NHS East and North Hertfordshire CCG,219 459,204 462,6 916,8 081,April,2022,NA,NA,NA
+4,CCG,06L,E38000086,NHS Ipswich and East Suffolk CCG,168 754,158 673,4 377,5 704,April,2022,NA,NA,NA
+4,CCG,06N,E38000079,NHS Herts Valley CCG,228 433,209 546,9 182,9 705,April,2022,NA,NA,NA
+4,CCG,06Q,E38000106,NHS Mid Essex CCG,147 644,138 298,4 157,5 189,April,2022,NA,NA,NA
+4,CCG,06T,E38000117,NHS North East Essex CCG,154 862,141 195,7 833,5 834,April,2022,NA,NA,NA
+4,CCG,07G,E38000185,NHS Thurrock CCG,72 430,67 605,2 211,2 614,April,2022,NA,NA,NA
+4,CCG,07H,E38000197,NHS West Essex CCG,114 410,107 810,3 613,2 987,April,2022,NA,NA,NA
+4,CCG,07K,E38000204,NHS West Suffolk CCG,106 216,101 656,2 752,1 808,April,2022,NA,NA,NA
+4,CCG,09D,E38000021,NHS Brighton and Hove CCG,113 998,105 140,4 570,4 288,April,2022,NA,NA,NA
+4,CCG,10Q,E38000136,NHS Oxfordshire CCG,306 426,281 605,13 290,11 531,April,2022,NA,NA,NA
+4,CCG,10R,E38000137,NHS Portsmouth CCG,74 149,68 566,3 316,2 267,April,2022,NA,NA,NA
+4,CCG,11J,E38000045,NHS Dorset CCG,351 058,327 617,12 289,11 152,April,2022,NHS Dorset CCG,QVV,NHS Dorset Integrated Care Board
+4,CCG,11M,E38000062,NHS Gloucestershire CCG,300 335,280 178,10 825,9 332,April,2022,NHS Gloucestershire CCG,QR1,NHS Gloucestershire Integrated Care Board
+4,CCG,11N,E38000089,NHS Kernow CCG,299 544,274 540,11 197,13 807,April,2022,NHS Kernow CCG,QT6,NHS Cornwall and the Isles of Scilly Integrated Care Board
+4,CCG,11X,E38000150,NHS Somerset CCG,229 796,210 472,9 815,9 509,April,2022,NHS Somerset CCG,QSL,NHS Somerset Integrated Care Board
+4,CCG,12F,E38000208,NHS Wirral CCG,167 190,151 186,8 840,7 164,April,2022,NA,NA,NA
+4,CCG,13T,E38000212,NHS Newcastle Gateshead CCG,209 109,188 147,11 199,9 763,April,2022,NHS Newcastle Gateshead CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,14L,E38000217,NHS Manchester CCG,243 400,213 320,16 220,13 860,April,2022,NHS Manchester CCG,QOP,NHS Greater Manchester Integrated Care Board
+4,CCG,14Y,E38000223,NHS Buckinghamshire CCG,193 837,179 879,7 704,6 254,April,2022,NA,NA,NA
+4,CCG,15A,E38000221,NHS Berkshire West CCG,214 678,197 241,9 101,8 336,April,2022,NA,NA,NA
+4,CCG,15C,E38000222,"NHS Bristol, North Somerset and South Gloucestershire CCG",392 703,361 140,18 136,13 427,April,2022,NA,NA,NA
+4,CCG,15E,E38000220,NHS Birmingham and Solihull CCG,511 122,462 500,29 974,18 648,April,2022,NHS Birmingham and Solihull CCG,QHL,NHS Birmingham and Solihull Integrated Care Board
+4,CCG,15F,E38000225,NHS Leeds CCG,370 816,344 493,15 216,11 107,April,2022,NHS Leeds CCG,QWO,NHS West Yorkshire Integrated Care Board
+4,CCG,15M,E38000229,NHS Derby and Derbyshire CCG,464 831,433 607,14 779,16 445,April,2022,NHS Derby and Derbyshire CCG,QJ2,NHS Derby and Derbyshire Integrated Care Board
+4,CCG,15N,E38000230,NHS Devon CCG,603 142,558 798,21 923,22 421,April,2022,NHS Devon CCG,QJK,NHS Devon Integrated Care Board
+4,CCG,16C,E38000247,NHS Tees Valley CCG,306 839,282 021,13 912,10 906,April,2022,NHS Tees Valley CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,18C,E38000236,NHS Herefordshire CCG,379 630,352 624,14 582,12 424,April,2022,NA,NA,NA
+4,CCG,26A,E38000239,NHS Norfolk and Waveney CCG,485 889,452 225,17 670,15 994,April,2022,NHS Norfolk and Waveney CCG,QMM,NHS Norfolk and Waveney Integrated Care Board
+4,CCG,27D,E38000233,NHS Cheshire CCG,307 551,276 577,15 432,15 542,April,2022,NHS Cheshire CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,36J,E38000232,NHS Bradford District and Craven CCG,335 496,311 155,10 124,14 217,April,2022,NHS Bradford District and Craven CCG,QWO,NHS West Yorkshire Integrated Care Board
+4,CCG,36L,E38000245,NHS South West London CCG,578 361,522 602,32 721,23 038,April,2022,NA,NA,NA
+4,CCG,42D,E38000241,NHS North Yorkshire CCG,205 091,192 576,6 278,6 237,April,2022,NA,NA,NA
+4,CCG,52R,E38000243,NHS Nottingham and Nottinghamshire CCG,447 198,412 822,18 391,15 985,April,2022,NA,NA,NA
+4,CCG,70F,E38000248,NHS West Sussex CCG,365 074,342 122,11 198,11 754,April,2022,NA,NA,NA
+4,CCG,71E,E38000238,NHS Lincolnshire CCG,347 659,322 626,12 716,12 317,April,2022,NHS Lincolnshire CCG,QJM,NHS Lincolnshire Integrated Care Board
+4,CCG,72Q,E38000244,NHS South East London CCG,634 789,570 942,36 226,27 621,April,2022,NA,NA,NA
+4,CCG,78H,E38000242,NHS Northamptonshire CCG,312 171,293 935,9 210,9 026,April,2022,NHS Northamptonshire CCG,QPM,NHS Northamptonshire Integrated Care Board
+4,CCG,84H,E38000234,NHS County Durham CCG,288 294,269 124,10 206,8 964,April,2022,NHS County Durham CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,91Q,E38000237,NHS Kent and Medway CCG,754 730,686 786,33 932,34 012,April,2022,NA,NA,NA
+4,CCG,92A,E38000246,NHS Surrey Heartlands CCG,396 387,365 559,17 074,13 754,April,2022,NHS Surrey Heartlands CCG,QXU,NHS Surrey Heartlands Integrated Care Board
+4,CCG,92G,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",420 447,393 016,13 318,14 113,April,2022,NA,NA,NA
+4,CCG,93C,E38000240,NHS North Central London CCG,540 611,488 803,30 019,21 789,April,2022,NA,NA,NA
+4,CCG,97R,E38000235,NHS East Sussex CCG,243 597,223 046,10 316,10 235,April,2022,NA,NA,NA
+4,CCG,99A,E38000101,NHS Liverpool CCG,215 269,193 652,13 168,8 449,April,2022,NHS Liverpool CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+4,CCG,99C,E38000127,NHS North Tyneside CCG,91 438,83 718,4 143,3 577,April,2022,NHS North Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+4,CCG,99E,E38000007,NHS Basildon and Brentwood CCG,105 519,98 245,2 687,4 587,April,2022,NA,NA,NA
+4,CCG,99F,E38000030,NHS Castle Point and Rochford CCG,63 459,59 600,1 652,2 207,April,2022,NA,NA,NA
+4,CCG,99G,E38000168,NHS Southend CCG,60 233,56 031,2 413,1 789,April,2022,NA,NA,NA
+4,CCG,A3A8R,E38000255,NHS North East London CCG,774 019,694 173,45 766,34 080,April,2022,NA,NA,NA
+4,CCG,B2M3M,E38000251,NHS Coventry and Warwickshire CCG,394 514,360 183,16 952,17 379,April,2022,NA,NA,NA
+4,CCG,D2P2L,E38000250,NHS Black Country and West Birmingham CCG,557 429,500 783,31 757,24 889,April,2022,NA,NA,NA
+4,CCG,D4U1Y,E38000252,NHS Frimley CCG,304 563,281 213,13 552,9 798,April,2022,NA,NA,NA
+4,CCG,D9Y0V,E38000253,"NHS Hampshire, Southampton and Isle of Wight CCG",672 963,617 773,30 618,24 572,April,2022,NA,NA,NA
+4,CCG,M1J4Y,E38000249,"NHS Bedfordshire, Luton and Milton Keynes CCG",388 554,360 889,15 422,12 243,April,2022,NA,NA,NA
+4,CCG,M2L0M,E38000257,NHS Shropshire and Telford and Wrekin CCG,207 690,192 134,7 514,8 042,April,2022,NA,NA,NA
+4,CCG,W2U3Z,E38000256,NHS North West London CCG,1 006 387,921 263,47 571,37 553,April,2022,NA,NA,NA
+4,CCG,X2C4Y,E38000254,NHS Kirklees CCG,192 989,180 231,6 675,6 083,April,2022,NA,NA,NA
+9,CCG,00L,E38000130,NHS Northumberland CCG,176 738,166 425,6 035,4 278,May,2022,NHS Northumberland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,00N,E38000163,NHS South Tyneside CCG,65 814,60 181,2 733,2 900,May,2022,NHS South Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,00P,E38000176,NHS Sunderland CCG,125 260,112 393,6 959,5 908,May,2022,NHS Sunderland CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,00Q,E38000014,NHS Blackburn with Darwen CCG,75 526,68 587,4 064,2 875,May,2022,NHS Blackburn with Darwen CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,00R,E38000015,NHS Blackpool CCG,89 281,80 931,5 064,3 286,May,2022,NHS Blackpool CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,00T,E38000016,NHS Bolton CCG,148 619,133 386,9 751,5 482,May,2022,NHS Bolton CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,00V,E38000024,NHS Bury CCG,63 543,55 819,3 069,4 655,May,2022,NHS Bury CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,00X,E38000034,NHS Chorley and South Ribble CCG,80 450,72 750,3 922,3 778,May,2022,NHS Chorley and South Ribble CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,00Y,E38000135,NHS Oldham CCG,101 590,92 534,5 787,3 269,May,2022,NHS Oldham CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,01A,E38000050,NHS East Lancashire CCG,163 726,148 476,8 117,7 133,May,2022,NHS East Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,01D,E38000080,"NHS Heywood, Middleton and Rochdale CCG",91 645,83 404,5 217,3 024,May,2022,"NHS Heywood, Middleton and Rochdale CCG",QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,01E,E38000227,NHS Greater Preston CCG,95 095,84 951,4 689,5 455,May,2022,NHS Greater Preston CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,01F,E38000068,NHS Halton CCG,56 527,50 744,2 916,2 867,May,2022,NHS Halton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,01G,E38000143,NHS Salford CCG,126 578,111 175,7 512,7 891,May,2022,NHS Salford CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,01H,E38000215,NHS North Cumbria CCG,180 391,166 087,7 130,7 174,May,2022,NHS North Cumbria CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,01J,E38000091,NHS Knowsley CCG,77 202,70 277,4 478,2 447,May,2022,NHS Knowsley CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,01K,E38000228,NHS Morecambe Bay CCG,159 131,147 703,6 803,4 625,May,2022,NHS Morecambe Bay CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,01T,E38000161,NHS South Sefton CCG,52 294,47 207,2 663,2 424,May,2022,NHS South Sefton CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,01V,E38000170,NHS Southport and Formby CCG,57 475,52 778,2 201,2 496,May,2022,NHS Southport and Formby CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,01W,E38000174,NHS Stockport CCG,153 773,141 182,7 149,5 442,May,2022,NHS Stockport CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,01X,E38000172,NHS St Helens CCG,82 447,71 056,4 748,6 643,May,2022,NHS St Helens CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,01Y,E38000182,NHS Tameside and Glossop CCG,112 098,99 916,6 572,5 610,May,2022,NHS Tameside and Glossop CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,02A,E38000187,NHS Trafford CCG,82 533,74 503,4 494,3 536,May,2022,NHS Trafford CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,02E,E38000194,NHS Warrington CCG,97 618,91 377,3 476,2 765,May,2022,NHS Warrington CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,02G,E38000200,NHS West Lancashire CCG,51 683,46 890,2 278,2 515,May,2022,NHS West Lancashire CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,02H,E38000205,NHS Wigan Borough CCG,130 666,117 693,7 442,5 531,May,2022,NHS Wigan Borough CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,02M,E38000226,NHS Fylde and Wyre CCG,97 188,88 610,3 983,4 595,May,2022,NHS Fylde and Wyre CCG,QE1,NHS Lancashire and South Cumbria Integrated Care Board
+9,CCG,02P,E38000006,NHS Barnsley CCG,119 450,108 532,4 784,6 134,May,2022,NA,NA,NA
+9,CCG,02Q,E38000008,NHS Bassetlaw CCG,60 030,56 314,2 213,1 503,May,2022,NA,NA,NA
+9,CCG,02T,E38000025,NHS Calderdale CCG,109 238,102 800,3 880,2 558,May,2022,NHS Calderdale CCG,QWO,NHS West Yorkshire Integrated Care Board
+9,CCG,02X,E38000044,NHS Doncaster CCG,153 180,141 355,7 642,4 183,May,2022,NA,NA,NA
+9,CCG,02Y,E38000052,NHS East Riding of Yorkshire CCG,139 489,131 359,4 849,3 281,May,2022,NA,NA,NA
+9,CCG,03F,E38000085,NHS Hull CCG,122 672,112 581,6 731,3 360,May,2022,NA,NA,NA
+9,CCG,03H,E38000119,NHS North East Lincolnshire CCG,102 655,95 787,2 959,3 909,May,2022,NA,NA,NA
+9,CCG,03K,E38000122,NHS North Lincolnshire CCG,92 606,85 389,2 852,4 365,May,2022,NA,NA,NA
+9,CCG,03L,E38000141,NHS Rotherham CCG,141 276,131 460,5 436,4 380,May,2022,NA,NA,NA
+9,CCG,03N,E38000146,NHS Sheffield CCG,285 961,264 968,11 328,9 665,May,2022,NA,NA,NA
+9,CCG,03Q,E38000188,NHS Vale of York CCG,152 978,144 429,5 235,3 314,May,2022,NA,NA,NA
+9,CCG,03R,E38000190,NHS Wakefield CCG,203 672,190 531,6 577,6 564,May,2022,NHS Wakefield CCG,QWO,NHS West Yorkshire Integrated Care Board
+9,CCG,03W,E38000051,NHS East Leicestershire and Rutland CCG,175 984,165 332,6 396,4 256,May,2022,NA,NA,NA
+9,CCG,04C,E38000097,NHS Leicester City CCG,197 661,182 012,9 038,6 611,May,2022,NA,NA,NA
+9,CCG,04V,E38000201,NHS West Leicestershire CCG,205 092,194 172,6 509,4 411,May,2022,NA,NA,NA
+9,CCG,04Y,E38000028,NHS Cannock Chase CCG,59 421,54 636,2 435,2 350,May,2022,NA,NA,NA
+9,CCG,05D,E38000053,NHS East Staffordshire CCG,65 712,59 149,2 569,3 994,May,2022,NA,NA,NA
+9,CCG,05G,E38000126,NHS North Staffordshire CCG,92 291,84 901,3 679,3 711,May,2022,NA,NA,NA
+9,CCG,05Q,E38000153,NHS South East Staffordshire and Seisdon Peninsula CCG,93 101,87 012,3 567,2 522,May,2022,NA,NA,NA
+9,CCG,05V,E38000173,NHS Stafford and Surrounds CCG,64 089,59 106,2 759,2 224,May,2022,NA,NA,NA
+9,CCG,05W,E38000175,NHS Stoke on Trent CCG,109 780,97 575,6 817,5 388,May,2022,NA,NA,NA
+9,CCG,06H,E38000026,NHS Cambridgeshire and Peterborough CCG,476 863,446 880,16 052,13 931,May,2022,NA,NA,NA
+9,CCG,06K,E38000049,NHS East and North Hertfordshire CCG,256 259,240 089,7 720,8 450,May,2022,NA,NA,NA
+9,CCG,06L,E38000086,NHS Ipswich and East Suffolk CCG,190 933,179 504,4 989,6 440,May,2022,NA,NA,NA
+9,CCG,06N,E38000079,NHS Herts Valley CCG,266 457,244 666,10 875,10 916,May,2022,NA,NA,NA
+9,CCG,06Q,E38000106,NHS Mid Essex CCG,168 621,159 360,4 616,4 645,May,2022,NA,NA,NA
+9,CCG,06T,E38000117,NHS North East Essex CCG,179 617,165 070,8 591,5 956,May,2022,NA,NA,NA
+9,CCG,07G,E38000185,NHS Thurrock CCG,83 372,77 621,2 501,3 250,May,2022,NA,NA,NA
+9,CCG,07H,E38000197,NHS West Essex CCG,133 898,125 970,4 490,3 438,May,2022,NA,NA,NA
+9,CCG,07K,E38000204,NHS West Suffolk CCG,122 150,116 913,3 093,2 144,May,2022,NA,NA,NA
+9,CCG,09D,E38000021,NHS Brighton and Hove CCG,133 880,123 750,5 332,4 798,May,2022,NA,NA,NA
+9,CCG,10Q,E38000136,NHS Oxfordshire CCG,350 910,326 654,12 602,11 654,May,2022,NA,NA,NA
+9,CCG,10R,E38000137,NHS Portsmouth CCG,87 919,82 020,3 765,2 134,May,2022,NA,NA,NA
+9,CCG,11J,E38000045,NHS Dorset CCG,396 217,372 436,13 230,10 551,May,2022,NHS Dorset CCG,QVV,NHS Dorset Integrated Care Board
+9,CCG,11M,E38000062,NHS Gloucestershire CCG,344 318,321 508,12 400,10 410,May,2022,NHS Gloucestershire CCG,QR1,NHS Gloucestershire Integrated Care Board
+9,CCG,11N,E38000089,NHS Kernow CCG,340 577,315 605,12 344,12 628,May,2022,NHS Kernow CCG,QT6,NHS Cornwall and the Isles of Scilly Integrated Care Board
+9,CCG,11X,E38000150,NHS Somerset CCG,285 205,262 645,11 314,11 246,May,2022,NHS Somerset CCG,QSL,NHS Somerset Integrated Care Board
+9,CCG,12F,E38000208,NHS Wirral CCG,189 606,171 841,10 146,7 619,May,2022,NA,NA,NA
+9,CCG,13T,E38000212,NHS Newcastle Gateshead CCG,239 507,217 283,12 932,9 292,May,2022,NHS Newcastle Gateshead CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,14L,E38000217,NHS Manchester CCG,280 997,247 668,18 576,14 753,May,2022,NHS Manchester CCG,QOP,NHS Greater Manchester Integrated Care Board
+9,CCG,14Y,E38000223,NHS Buckinghamshire CCG,230 194,214 381,9 072,6 741,May,2022,NA,NA,NA
+9,CCG,15A,E38000221,NHS Berkshire West CCG,243 681,225 112,10 050,8 519,May,2022,NA,NA,NA
+9,CCG,15C,E38000222,"NHS Bristol, North Somerset and South Gloucestershire CCG",450 623,415 697,20 324,14 602,May,2022,NA,NA,NA
+9,CCG,15E,E38000220,NHS Birmingham and Solihull CCG,602 038,547 503,35 012,19 523,May,2022,NHS Birmingham and Solihull CCG,QHL,NHS Birmingham and Solihull Integrated Care Board
+9,CCG,15F,E38000225,NHS Leeds CCG,422 476,393 036,16 860,12 580,May,2022,NHS Leeds CCG,QWO,NHS West Yorkshire Integrated Care Board
+9,CCG,15M,E38000229,NHS Derby and Derbyshire CCG,529 815,495 387,16 867,17 561,May,2022,NHS Derby and Derbyshire CCG,QJ2,NHS Derby and Derbyshire Integrated Care Board
+9,CCG,15N,E38000230,NHS Devon CCG,691 950,643 549,25 611,22 790,May,2022,NHS Devon CCG,QJK,NHS Devon Integrated Care Board
+9,CCG,16C,E38000247,NHS Tees Valley CCG,344 426,317 785,15 833,10 808,May,2022,NHS Tees Valley CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,18C,E38000236,NHS Herefordshire CCG,437 547,409 114,16 945,11 488,May,2022,NA,NA,NA
+9,CCG,26A,E38000239,NHS Norfolk and Waveney CCG,564 395,527 903,20 746,15 746,May,2022,NHS Norfolk and Waveney CCG,QMM,NHS Norfolk and Waveney Integrated Care Board
+9,CCG,27D,E38000233,NHS Cheshire CCG,354 733,322 049,17 623,15 061,May,2022,NHS Cheshire CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,36J,E38000232,NHS Bradford District and Craven CCG,373 247,343 593,11 862,17 792,May,2022,NHS Bradford District and Craven CCG,QWO,NHS West Yorkshire Integrated Care Board
+9,CCG,36L,E38000245,NHS South West London CCG,674 675,611 514,38 796,24 365,May,2022,NA,NA,NA
+9,CCG,42D,E38000241,NHS North Yorkshire CCG,231 225,217 951,6 972,6 302,May,2022,NA,NA,NA
+9,CCG,52R,E38000243,NHS Nottingham and Nottinghamshire CCG,517 125,480 371,21 287,15 467,May,2022,NA,NA,NA
+9,CCG,70F,E38000248,NHS West Sussex CCG,412 265,388 499,12 570,11 196,May,2022,NA,NA,NA
+9,CCG,71E,E38000238,NHS Lincolnshire CCG,399 478,374 436,14 178,10 864,May,2022,NHS Lincolnshire CCG,QJM,NHS Lincolnshire Integrated Care Board
+9,CCG,72Q,E38000244,NHS South East London CCG,731 005,658 808,41 770,30 427,May,2022,NA,NA,NA
+9,CCG,78H,E38000242,NHS Northamptonshire CCG,359 505,340 127,10 787,8 591,May,2022,NHS Northamptonshire CCG,QPM,NHS Northamptonshire Integrated Care Board
+9,CCG,84H,E38000234,NHS County Durham CCG,328 124,307 368,11 557,9 199,May,2022,NHS County Durham CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,91Q,E38000237,NHS Kent and Medway CCG,856 698,782 058,37 595,37 045,May,2022,NA,NA,NA
+9,CCG,92A,E38000246,NHS Surrey Heartlands CCG,457 095,423 189,19 222,14 684,May,2022,NHS Surrey Heartlands CCG,QXU,NHS Surrey Heartlands Integrated Care Board
+9,CCG,92G,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",481 570,452 629,15 250,13 691,May,2022,NA,NA,NA
+9,CCG,93C,E38000240,NHS North Central London CCG,632 209,576 077,35 233,20 899,May,2022,NA,NA,NA
+9,CCG,97R,E38000235,NHS East Sussex CCG,279 312,257 230,11 153,10 929,May,2022,NA,NA,NA
+9,CCG,99A,E38000101,NHS Liverpool CCG,246 186,221 571,15 602,9 013,May,2022,NHS Liverpool CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+9,CCG,99C,E38000127,NHS North Tyneside CCG,104 281,95 899,4 639,3 743,May,2022,NHS North Tyneside CCG,QHM,NHS North East and North Cumbria Integrated Care Board
+9,CCG,99E,E38000007,NHS Basildon and Brentwood CCG,122 712,114 537,3 088,5 087,May,2022,NA,NA,NA
+9,CCG,99F,E38000030,NHS Castle Point and Rochford CCG,73 960,69 812,1 979,2 169,May,2022,NA,NA,NA
+9,CCG,99G,E38000168,NHS Southend CCG,70 078,65 374,2 698,2 006,May,2022,NA,NA,NA
+9,CCG,A3A8R,E38000255,NHS North East London CCG,909 510,815 258,55 319,38 933,May,2022,NA,NA,NA
+9,CCG,B2M3M,E38000251,NHS Coventry and Warwickshire CCG,454 880,418 481,19 682,16 717,May,2022,NA,NA,NA
+9,CCG,D2P2L,E38000250,NHS Black Country and West Birmingham CCG,647 216,585 334,37 848,24 034,May,2022,NA,NA,NA
+9,CCG,D4U1Y,E38000252,NHS Frimley CCG,354 399,328 680,16 414,9 305,May,2022,NA,NA,NA
+9,CCG,D9Y0V,E38000253,"NHS Hampshire, Southampton and Isle of Wight CCG",766 584,708 781,34 654,23 149,May,2022,NA,NA,NA
+9,CCG,M1J4Y,E38000249,"NHS Bedfordshire, Luton and Milton Keynes CCG",443 599,413 736,17 740,12 123,May,2022,NA,NA,NA
+9,CCG,M2L0M,E38000257,NHS Shropshire and Telford and Wrekin CCG,237 528,219 588,8 995,8 945,May,2022,NA,NA,NA
+9,CCG,W2U3Z,E38000256,NHS North West London CCG,1 163 863,1 064 895,56 793,42 175,May,2022,NA,NA,NA
+9,CCG,X2C4Y,E38000254,NHS Kirklees CCG,220 835,206 205,7 649,6 981,May,2022,NA,NA,NA
+NA,NA,Y05,NA,NA,NA,NA,NA,NA,NA,NA,NHS North West London CCG,QRV,NHS North West London Integrated Care Board
+NA,NA,99B,NA,NA,NA,NA,NA,NA,NA,NA,NHS Wirral CCG,QYG,NHS Cheshire and Merseyside Integrated Care Board
+NA,NA,Y08,NA,NA,NA,NA,NA,NA,NA,NA,NHS Black Country and West Birmingham CCG,QUA,NHS Black Country Integrated Care Board
+NA,NA,Y07,NA,NA,NA,NA,NA,NA,NA,NA,NHS Shropshire Telford and Wrekin CCG,QOC,"NHS Shropshire, Telford and Wrekin Integrated Care Board"
+NA,NA,Y09,NA,NA,NA,NA,NA,NA,NA,NA,NHS Kirklees CCG,QWO,NHS West Yorkshire Integrated Care Board
+NA,NA,Y02,NA,NA,NA,NA,NA,NA,NA,NA,NHS Frimley CCG,QNQ,NHS Frimley Integrated Care Board
