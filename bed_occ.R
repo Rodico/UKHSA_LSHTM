@@ -64,11 +64,11 @@ bed_occ_scatter <- ggplot(data = bed_occ, aes(x = Year, y = `% Occupied Total`, 
   ) +  # Assign custom colors to each quarter
   annotate("rect", xmin = "2020", xmax = "2022", ymin = -Inf, ymax = Inf,
            fill = "lightgray", alpha = 0.2) +  # Shaded area for covid
-  labs(y = "Percentage of Bed Occupied", x = "Year", color = "Quarter",
+  labs(y = "Percentage of Bed Occupied (%)", x = "Year", color = "Quarter",
        title = "Yearly Percentage of Bed Occupancy") +
   theme_light(base_size = 14) +
-  theme(panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(),
+  theme(panel.grid.major = element_line(color = "lightgray", size = 0.5),# grid lines
+        panel.grid.minor = element_line(color = "lightgray", size = 0.2),# grid lines
         axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),  # Rotate x-axis labels
         plot.title = element_text(hjust = 0.5))  # Center the plot title
 
