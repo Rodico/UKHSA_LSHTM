@@ -50,17 +50,21 @@ icb_data_all <- icb_data_all %>%
 prescriptions_stratified <- icb_data_all %>%
   group_by(YEAR_MONTH, ICB_CODE, GENDER, AGE_BAND) %>%
   summarise(UNIQUE_PATIENTS = sum(as.numeric(UNIQUE_PATIENT_COUNT), na.rm = TRUE),  # Sum unique patients
-            TOTAL_ITEMS = sum(as.numeric(ITEMS), na.rm = TRUE),  # Sum prescription items
+            TOTAL_PRESCRIPTIONS = sum(as.numeric(ITEMS), na.rm = TRUE),  # Sum prescription items
     .groups = "drop") %>%
   arrange(YEAR_MONTH, ICB_CODE, GENDER, AGE_BAND)
 
 ##  Summarise counts by YEAR_MONTH, and ICB_CODE
 prescriptions_summary <- icb_data_all %>%
   group_by(YEAR_MONTH, ICB_CODE) %>%
-  summarise(
-    TOTAL_PATIENTS = sum(as.numeric(UNIQUE_PATIENT_COUNT), na.rm = TRUE),  # Total unique patients
-    TOTAL_ITEMS = sum(as.numeric(ITEMS), na.rm = TRUE),  # Total prescription items
-    .groups = "drop"  # Remove grouping
-  )
+  summarise(UNIQUE_PATIENTS = sum(as.numeric(UNIQUE_PATIENT_COUNT), na.rm = TRUE),  # Total unique patients
+            TOTAL_PRESCRIPTIONS = sum(as.numeric(ITEMS), na.rm = TRUE),  # Total prescription items
+    .groups = "drop")
 
 rm(icb_data_all)
+
+# Export detailed stratified dataset
+write_csv(prescriptions_summary, "/Users/jennypage/Desktop/Data Challenge/ICB_Data/prescriptions_summary.csv")
+
+# Export high-level summary by YEAR_MONTH & ICB_CODE
+write_csv(prescriptions_stratified, "/Users/jennypage/Desktop/Data Challenge/ICB_Data/prescriptions_stratified.csv")
