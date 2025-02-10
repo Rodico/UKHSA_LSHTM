@@ -4,6 +4,7 @@ rm(list=ls())
 ## Load packages
 library(dplyr)
 library(readr)
+library(readxl)
 
 ## Read in data (April 2015 - December 2023)
 # Define folder path
@@ -61,10 +62,29 @@ prescriptions_summary <- icb_data_all %>%
             TOTAL_PRESCRIPTIONS = sum(as.numeric(ITEMS), na.rm = TRUE),  # Total prescription items
     .groups = "drop")
 
-rm(icb_data_all)
+## Merge ICB name for merging
+# Read the Excel file
+icb_names <- read_excel("/Users/jennypage/Desktop/Data Challenge/ICB_Data/ICB_NAMES.xlsx")
+merged_data <- merge(prescriptions_summary, icb_names, by.x = "ICB_CODE", by.y = "ICB22CDH", all.x = TRUE)
+merged_data_strat <- merge(prescriptions_stratified, icb_names, by.x = "ICB_CODE", by.y = "ICB22CDH", all.x = TRUE)
 
-# Export detailed stratified dataset
+# Remove rows where ICB22CD is NA
+prescriptions_summary <- merged_data %>% 
+  filter(!is.na(ICB22CD)) %>%
+  select(YEAR_MONTH, ICB22NM, ICB_CODE, UNIQUE_PATIENTS, TOTAL_PRESCRIPTIONS) %>%
+  arrange(YEAR_MONTH, ICB_CODE) %>%
+  rename(ICB_NAME = ICB22NM)
+
+prescriptions_stratified <- merged_data_strat %>% 
+  filter(!is.na(ICB22CD)) %>%
+  select(YEAR_MONTH, ICB22NM, ICB_CODE, GENDER, AGE_BAND, UNIQUE_PATIENTS, TOTAL_PRESCRIPTIONS) %>%
+  arrange(YEAR_MONTH, ICB_CODE, GENDER, AGE_BAND) %>%
+  rename(ICB_NAME = ICB22NM)
+
+rm(icb_data_all, icb_names, merged_data, merged_data_strat)
+
+# Export detailed data
 write_csv(prescriptions_summary, "/Users/jennypage/Desktop/Data Challenge/ICB_Data/prescriptions_summary.csv")
 
-# Export high-level summary by YEAR_MONTH & ICB_CODE
+# Export stratification by GENDER and AGE_BAND
 write_csv(prescriptions_stratified, "/Users/jennypage/Desktop/Data Challenge/ICB_Data/prescriptions_stratified.csv")
