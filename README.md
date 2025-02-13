@@ -9,7 +9,7 @@ Analysis of E. coli and MSSA bloodstream infection rates across Integrated Care 
 
 * E. coli and MSSA bloodstream infection rates by ICB (Rates_Region_Geography_Analysis_Github.zip)
 
-* Age and gender distribution data which utilises Index of Multiple Deprivation (deprivation data) (Ages_Gender.zip)
+* Age and gender distribution data which utilises Index of Multiple Deprivation (deprivation data) (Ages_Gender.zip, IMD_data.zip, Conversion_Tables.zip)
 
 * Hospital bed occupancy (2010-2024, Q1-Q2) (Bed_occupancy.zip)
 
