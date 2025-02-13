@@ -7,19 +7,17 @@ Analysis of E. coli and MSSA bloodstream infection rates across Integrated Care 
 
 ## Primary Datasets
 
-E. coli and MSSA bloodstream infection rates by ICB (Rates_Region_Geography_Analysis_Github.zip)
+* E. coli and MSSA bloodstream infection rates by ICB (Rates_Region_Geography_Analysis_Github.zip)
 
-Age and gender distribution data (Ages_Gender.zip)
+* Age and gender distribution data which utilises Index of Multiple Deprivation (deprivation data) (Ages_Gender.zip)
 
-Hospital bed occupancy (2010-2024, Q1-Q2) (Bed_occupancy.zip)
+* Hospital bed occupancy (2010-2024, Q1-Q2) (Bed_occupancy.zip)
 
-Data conversion reference tables (Conversion_Tables.zip)
+* Data conversion reference tables (Conversion_Tables.zip)
 
-Index of Multiple Deprivation (IMD) 2019 (IMD_Data.zip)
+* Antibiotic prescribing patterns (Prescriptions_Zip_File.zip)
 
-Antibiotic prescribing patterns (Prescriptions_Zip_File.zip)
-
-GP appointment data (gp appointments (1).zip)
+* GP appointment data (gp appointments (1).zip)
 
 ## Supporting Documentation
 
