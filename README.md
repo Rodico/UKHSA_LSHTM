@@ -5,7 +5,7 @@ Analysis of E. coli and MSSA bloodstream infection rates across Integrated Care 
 
 ## Data Sources
 
-## Primary Datasets
+## Primary Datasets (Please download each individual files to extract the zip files)
 
 * E. coli and MSSA bloodstream infection rates by ICB (Rates_Region_Geography_Analysis_Github.zip). Please bare in mind this goes up to 2024/2024 finanicial year and includes rares from March 2024. 
 
